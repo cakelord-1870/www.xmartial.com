@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/protectives.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-07-29T19:49:36-07:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/96327008260</id>
+    <published>2021-07-29T19:49:36-07:00</published>
+    <updated>2021-07-29T19:49:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/leg-sleeve-knee-pad"/>
+    <title>Leg Sleeve Knee Pad</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-leg-sleeve-knee-pad-30324322402468.jpg?v=1628381027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            19.95 - 29.95
+            <a href="https://www.xmartial.com/products/leg-sleeve-knee-pad">(40 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #000000;"><em><span style="color: #ff2a00;"><strong></strong></span></em></span><span style="color: #000000;"><strong></strong></span><span style="color: #000000;">This <strong>Leg Sleeve Knee Pad </strong>are much more ergonomic alternative to independent knee pads. Unlike independent knee pads, which tend to slide down, these sleeves will stay safely in place and keep the padding where it’s needed. The featured padding offers good protection against knee injuries.</span></p>
+<meta charset="utf-8">
+<ul>
+<li><span style="color: #000000;">Made of high-quality Nylon-spandex fabric material</span></li>
+<li><span style="color: #000000;">Allows a wide range of motion during activity and still provide support for the knee and joints</span></li>
+<li><span style="color: #000000;">Contoured design allows custom adjustments to fit knee shape</span></li>
+<li><span style="color: #000000;">Smooth interior lining with flat seams for optimal comfort</span></li>
+<li><span style="color: #000000;">Ideal for running, BJJ and CrossFit</span></li>
+<li><span style="color: #000000;">Made of high-quality nylon spandex material</span></li>
+<li><span style="color: #000000;">Latest Non-slip technology and high elastic protection holds leg from slipping</span></li>
+<li><span style="color: #000000;">Anti-collision technology protect knees against impact</span></li>
+<li><span style="color: #000000;">Contoured design allows custom adjustments to fit</span></li>
+<li><span style="color: #000000;">Smooth interior lining with flat seams for optimal comfort</span></li>
+<li><span style="color: #000000;">Ideal for running, BJJ and CrossFit</span></li>
+</ul>
+<div><span style="color: #000000;"></span></div>
+<div></div>
+<div><span style="color: #000000;"></span></div>
+<h3><strong><span style="color: #000000;">SIZE CHART:</span></strong></h3>
+<p><strong><span style="color: #000000;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/CHART_5e6c52bb-f1a5-44c7-b445-107f33dceb44.jpg?v=1592805747" alt=""></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>knee pads</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 1pc / S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 1pc / M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 1pc / L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 1pc / XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 1pc / 2XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 2pcs / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 2pcs / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 2pcs / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 2pcs / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Black - 2pcs / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 1pc / S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 1pc / M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 1pc / L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 1pc / XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 1pc / 2XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 2pcs / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 2pcs / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 2pcs / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 2pcs / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Blue - 2pcs / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 1pc / S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 1pc / M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 1pc / L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 1pc / XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 1pc / 2XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 2pcs / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 2pcs / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 2pcs / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 2pcs / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>Red - 2pcs / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 1pc / S</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 1pc / M</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 1pc / L</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 1pc / XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 1pc / 2XL</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>3563980-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 2pcs / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 2pcs / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 2pcs / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 2pcs / XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/96327008260</id>
+      <title>White - 2pcs / 2XL</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>3563980-white-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840355029156</id>
+    <published>2021-07-25T23:49:46-07:00</published>
+    <updated>2021-07-25T23:49:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/kick-boxing-hand-wraps"/>
+    <title>Kick Boxing Hand Wraps</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-kick-boxing-hand-wraps-30301035298980.png?v=1628378326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;">Make every training comfortable and stylish with the <strong>Kick Boxing Hand Wraps</strong>. These awesome wraps provide full support for your wrists while protecting your knuckles underneath.<br></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;">Thanks to its stretchable and unique materials, the<strong> Kick Boxing Hand Wraps</strong> provide an impressively tight seal. It won't budge even in sweaty conditions. It's the perfect combination of protection and style!</p>
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_9.png?v=1626862005" alt="" style="float: none;"></div>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_10.png?v=1626862212"></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><strong></strong><strong>FEATURES AND BENEFITS:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Cotton &amp; Polyester</li>
+<li>
+<strong>Length:</strong> 5M</li>
+<li>Package includes one pair of boxing hand wraps and one polybag</li>
+<li><span><strong>Easy wrapping:</strong> Hook &amp; Loop Closure helps you to easily wrap your hands and solidly hold the position.</span></li>
+<li><span class="a-list-item"><strong>Breathable and Fast Drying:</strong> Moisture can, and will, ruin hand wraps. Our polyester material keeps your hands cooler during training and your wraps will dry faster until you can get them washed</span></li>
+<li><span class="a-list-item"><strong>Designed to Endure:</strong> Our 180" wraps are semi-elastic and highly durable, so they won’t come to lose just from putting on your gloves. They’ll also retain their shape better over time</span></li>
+<li><span><strong>Ideal for professionals or beginners</strong> for boxing, kickboxing, muay thai, and MMA.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>bjj-tape</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>training</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840355029156</id>
+      <title>Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>42846927-flying-black-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840355029156</id>
+      <title>Pink</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>42846927-flying-pink-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840355029156</id>
+      <title>Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>42846927-flying-red-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840334483620</id>
+    <published>2021-07-25T21:32:45-07:00</published>
+    <updated>2021-07-25T21:32:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/2-pcs-training-hand-wraps"/>
+    <title>1 Pair Training Hand Wraps</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-1-pair-training-hand-wraps-30463214354596.png?v=1628395599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make every training comfortable and stylish with the <strong>1 Pair Training<span data-mce-fragment="1"> </span> Hand Wraps</strong>. These awesome wraps provide full support for your wrists while protecting your knuckles underneath.<br><br> Thanks to its stretchable and unique materials, the<strong> 1 Pair Training</strong><strong> Hand Wraps</strong> provide an impressively tight seal. It won't budge even in sweaty conditions. It's the perfect combination of protection and style!<br><br>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/ZTTY-1-Pair-Cotton-Kick-Boxing-Wraps-Bandage-Men-Sanda-Taekwondo-Muay-Thai-Guantes-De-Boxeo_2.jpg?v=1626860417"></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_7_d43c29a0-c2f4-4ea1-9957-79ba41d5d8b0.png?v=1626860399"></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><strong></strong><strong>FEATURES AND BENEFITS:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Cotton &amp; Polyester</li>
+<li>
+<strong>Length:</strong> 5M</li>
+<li>Package includes one pair of boxing hand wraps and one polybag</li>
+<li><span><strong>Easy wrapping:</strong> Hook &amp; Loop Closure helps you to easily wrap your hands and solidly hold the position.</span></li>
+<li><span class="a-list-item"><strong>Breathable and Fast Drying:</strong> Moisture can, and will, ruin hand wraps. Our polyester material keeps your hands cooler during training and your wraps will dry faster until you can get them washed</span></li>
+<li><span class="a-list-item"><strong>Designed to Endure:</strong> Our 180" wraps are semi-elastic and highly durable, so they won’t come to lose just from putting on your gloves. They’ll also retain their shape better over time</span></li>
+<li><span><strong>Ideal for professionals or beginners</strong> for boxing, kickboxing, muay thai, and MMA.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>bjj-tape</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>training</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840334483620</id>
+      <title>Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>42846927-ztty-blue-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840334483620</id>
+      <title>Black</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>42846927-ztty-black-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840334483620</id>
+      <title>Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>42846927-ztty-red-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840028463268</id>
+    <published>2021-07-20T20:55:09-07:00</published>
+    <updated>2021-07-20T20:55:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/invincible-boxing-hand-wraps"/>
+    <title>Invincible Boxing Hand Wraps</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-invincible-boxing-hand-wraps-30161209360548.jpg?v=1628343237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Make every training comfortable and stylish with the<strong> Invincible Boxing Hand Wraps</strong>. These awesome wraps provide full support for your wrists while protecting your knuckles underneath.<br> Thanks to its stretchable and unique materials, the<strong><span> Invincible Boxing Hand Wraps</span></strong><span> </span>provide an impressively tight seal. It won't budge even in sweaty conditions. It's the perfect combination of protection and style!
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-tool-elastic-cotton-hand-protector-20512115556516.jpg?v=1605249979" alt=""><br></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><strong></strong><strong>FEATURES:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Cotton &amp; Polyester</li>
+<li>
+<strong>Length:</strong> 5M</li>
+<li>The package includes one pair of boxing hand wraps</li>
+<li><span><strong>Easy wrapping:</strong> Hook &amp; Loop Closure helps you to easily wrap your hands and solidly hold the position.</span></li>
+<li><span class="a-list-item"><strong>Breathable and Fast Drying:</strong> Moisture can, and will, ruin hand wraps. Our polyester material keeps your hands cooler during training and your wraps will dry faster until you can get them washed</span></li>
+<li><span class="a-list-item"><strong>Designed to Endure:</strong> Our 180" wraps are semi-elastic and highly durable, so they won’t come to lose just from putting on your gloves. They’ll also retain their shape better over time</span></li>
+<li><span><strong>Ideal for professionals or beginners</strong> for boxing, kickboxing, muay thai, and MMA.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>bjj-tape</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>training</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840028463268</id>
+      <title>Green</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>25840643-green-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840028463268</id>
+      <title>Red</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>25840643-red-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840028463268</id>
+      <title>White</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>25840643-white-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840028463268</id>
+      <title>Yellow</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>25840643-yellow-5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840005066916</id>
+    <published>2021-07-20T20:40:20-07:00</published>
+    <updated>2021-07-20T20:40:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/pro-boxing-hand-wraps"/>
+    <title>Pro Boxing Hand Wraps</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-pro-boxing-hand-wraps-30388852162724.jpg?v=1628387691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Protecting your hands is essential when Boxing. <strong>Pro Boxing Hand Wraps </strong></span><span>are designed to help protect the knuckles, tendons and soft tissues of the hand whilst striking and defending; and are available in many colors and lengths. </span></p>
+<p><strong>FEATURES:</strong></p>
+<ul>
+<li>Length: 5M</li>
+<li><span>Pure cotton material, strong, sweat-absorbent, durable with velcro strap.</span></li>
+<li>Thumb hole to easily start wrapping</li>
+<li>Excellent for protecting the hand and knuckles</li>
+<li>Can be used by amateurs and professionals</li>
+<li><span class="a-list-item">Best for: Boxing, MMA, Muay Thai, Kickboxing, or Krav Maga</span></li>
+<li><span class="a-list-item">Sold in pair</span></li>
+</ul>
+<p><span class="a-list-item"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-champ-fighter-hand-wraps-20512324681892.jpg?v=1626838259" alt=""></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>bjj-tape</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>training</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840005066916</id>
+      <title>Yellow</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>43364717-yellow-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840005066916</id>
+      <title>Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>43364717-blue-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840005066916</id>
+      <title>Red</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>43364717-red-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840005066916</id>
+      <title>Black</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>43364717-black-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840005066916</id>
+      <title>White</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>43364717-white-5m-united-states</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6718061215908</id>
+    <published>2021-05-24T00:20:57-07:00</published>
+    <updated>2021-05-24T00:20:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/impact-muay-thai-shin-guards"/>
+    <title>Impact Muay Thai Shin Guards</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-impact-muay-thai-shin-guards-30392330748068.jpg?v=1628378140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>Impact Muay Thai Shin Guards</strong> provide comfort for high-performance action. It is flexible and convenient for warriors due to the enhanced protection given by its high foaming liner. This gear is perfect for Muay Thai, Kick Boxing, Taekwondo, MMA, and other martial arts training. </p>
+<p><strong>FEATURES: </strong></p>
+<ul>
+<li>
+<span class="a-list-item">It is made of thickened latex liner, high shock absorption, rebound suction, e</span>xplosion-proof PU leather, and non-slip and breathable lining</li>
+<li><span class="a-list-item">The latex liner and additional padding enhance shock absorption at the junction of the tibia and instep.</span></li>
+<li><span class="a-list-item">The soft elastic straps on the feet fit tightly and comfortably, allowing you to move freely during exercise.</span></li>
+<li>Wider and thicker velcro on the calf for a strong fixation</li>
+</ul>
+<h3><strong>SIZE CHART: </strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-thick-boxing-shin-guards-29269471592612.jpg?v=1621839590"></strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>shin guards</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>black / L</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>black / M</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>white gold / L</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-white-gold-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>white gold / M</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-white-gold-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>white black / L</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-white-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6718061215908</id>
+      <title>white black / M</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>35210263-white-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6551666688164</id>
+    <published>2021-03-02T20:36:22-08:00</published>
+    <updated>2021-03-02T20:36:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/ground-and-pound-groin-protector"/>
+    <title>Ground and Pound Groin Protector</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-ground-and-pound-groin-protector-28046879752356.jpg?v=1626147732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Ground and Pound Groin Protector</strong> will keep you comfortably protected against painful hits below the belt. Enjoy a comfortable, unrestricted fit while protecting yourself from unfortunate mishaps during your sparring sessions. </span></p>
+<p><strong>FEATURES AND BENEFITS:</strong></p>
+<ul>
+<li>Material: Constructed from wet process PU leather and ABS Shell, more wearable and crack-resistant</li>
+<li><span class="a-list-item">Has superior cooling ventilation and is made with moisture management fabric.</span></li>
+<li>Lacking edge with engineering plastic and emulsion designed to shield and transfer shock away from areas where protection is most crucial.<br>
+</li>
+<li><span>Furnished with an elastic waistband to supply the perfect fit for each individual’s size and preference. Fitting securely around your waist, it provide the protection you need without compromising on comfort.</span></li>
+<li>Whether you’re engaged in boxing, mixed martial arts, Muay Thai, kickboxing or another sparring session, you can keep yourself protected without limiting your mobility.</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_-_2021-03-03T122734.780.jpg?v=1614745677"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>groin protector</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Black / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Black / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Black / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Blue / 2XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Red / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Red / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Red / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551666688164</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>10668281-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6035649790116</id>
+    <published>2021-02-22T02:40:37-08:00</published>
+    <updated>2021-02-22T02:40:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/fighter-kids-boxing-headgear"/>
+    <title>Fighter Kids Boxing Headgear</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fighter-kids-boxing-headgear-30416568254628.jpg?v=1628336758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Fighter Kids Boxing Headgear</strong> provides excellent coverage and protection of the face and head while training or sparring especially designed for kids who lacks self-protection in training or competition. A quality protective gear set can reduce the possibility of getting hurt and concrete kids' confidence for further learning. Whether you are </span>training boxing, kickboxing, mixed martial arts, karate or taekwondo, this head gear is perfect for you.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/Untitled_72680e42-1bcc-410b-9c39-0dc36fa76da5.png?v=1613013444" alt=""></p>
+<p><strong>FEATURES AND BENEFITS:</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Material: Made of high-quality PU, The inner liner is made with soft a Non-slip material. Synthetic leather is lightweight, soft and comfortable, also water and sweat resistant and holds the headgear in place.</span></li>
+<li><span class="a-list-item">Design: Monkey face shape design, can protect your head during boxing training, ensures you stay secure against nasty cuts and blows to your face and provides enough peripheral vision</span></li>
+<li><span class="a-list-item">Full Coverage: Full coverage of the head, cheeks, and chin. Solid padding makes nice protection for nose, cheek and full-face. About 1 inches padding for protecting your head and reduce shock</span></li>
+<li><span class="a-list-item"><span>Protection-Headgear for Muay Thai, Grappling, Sparring, Kickboxing, Karate, Martial Arts, Sanda, Fighting, Taekwondo and Karate</span></span></li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/chart_ed1671c4-e195-4b33-86db-d5c73f40ded1.jpg?v=1613013412"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing headgear</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035649790116</id>
+      <title>Black</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>35524646-black-helmet-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035649790116</id>
+      <title>White</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>35524646-white-helmet-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6035671122084</id>
+    <published>2021-02-22T00:33:54-08:00</published>
+    <updated>2021-02-22T00:33:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/fighter-kids-muay-thai-shin-guards"/>
+    <title>Fighter Kids Muay Thai Shin Guards</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fighter-kids-muay-thai-shin-guards-30408087797924.jpg?v=1628370773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fighter Kids Muay Thai Shin Guards</strong> are m<span data-mce-fragment="1">ade for young fighters to keep them protected while still being comfortable and flexible during sparring or training sessions.</span></p>
+<p><strong>FEATURES AND BENEFITS:</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Comprehensive Protection: Made of h<span data-mce-fragment="1">igh- quality PU leather,</span> durable and lightweight, can provide comprehensive protection to resist the impact of shin &amp; calf.</span></li>
+<li><span class="a-list-item">Absorbs high-impact: High-Impact protection <span data-mce-fragment="1">EVA foam inside</span> developed to protect your shins during sparring. Extended in-step protection ergonomically contours to your foot and protects your toes during intense sparring sessions</span></li>
+<li><span class="a-list-item">Quick strap system. Two strap hook and loop closure ensures a comfortable fit and minimizes shin guard movement</span></li>
+<li><span class="a-list-item"><span>Perfect for kickboxing, combat sports, taekwondo, MMA, muay thai and martial arts.</span></span></li>
+<li><span class="a-list-item"><span>Shin height: 30cm</span></span></li>
+<li><span class="a-list-item"><span>Suitable size for kids 110cm to 135cm tall</span></span></li>
+</ul>
+<p><span class="a-list-item"><span><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_-_2021-02-11T120126.996.jpg?v=1613016104" alt=""></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>shin guards</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035671122084</id>
+      <title>White</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>35524646-white-leggings-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035671122084</id>
+      <title>Black</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>35524646-black-leggings-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6035626819748</id>
+    <published>2021-02-10T18:56:41-08:00</published>
+    <updated>2021-02-10T18:56:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/men-impact-groin-protector"/>
+    <title>Men Impact Groin Protector</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-men-impact-groin-protector-30414921695396.jpg?v=1628359425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Men Impact Groin Protector</strong> will keep you comfortably protected against painful hits below the belt. Enjoy a comfortable, unrestricted fit while protecting yourself from unfortunate mishaps during your sparring sessions.</span></p>
+<p><span><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/Untitled_0e7695e3-8d0d-4c5d-99af-e3a2e4d82949.png?v=1613011822"></span></p>
+<p> <strong>FEATURES AND BENEFITS:</strong></p>
+<ul>
+<li>Material: Expertly crafted using a PU leather shell and comfortable padding.</li>
+<li><span>Soft and breathable spandex net cloth provides additional comfort and support</span></li>
+<li><span>Lacking edge with engineering plastic and emulsion designed to shield and transfer shock away from areas where protection is most crucial.</span></li>
+<li><span>Furnished with an elastic waistband to supply the perfect fit for each individual’s size and preference. Fitting securely around your waist, it provide the protection you need without compromising on comfort.</span></li>
+<li>
+<span>Meticulous turn lines</span> will never make you uncomfortable.</li>
+<li>Whether you’re engaged in boxing, mixed martial arts, Muay Thai, kickboxing or another sparring session, you can keep yourself protected without limiting your mobility</li>
+</ul>
+<h3> <strong>SIZE CHART:</strong>
+</h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/groin.png?v=1613011623"></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>groin protector</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035626819748</id>
+      <title>Black / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>24339478-s-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035626819748</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>24339478-l-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035626819748</id>
+      <title>Red / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>24339478-s-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035626819748</id>
+      <title>Red / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>24339478-l-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6032640737444</id>
+    <published>2021-02-09T19:50:44-08:00</published>
+    <updated>2021-02-09T19:50:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/ultra-pro-groin-protector"/>
+    <title>Ultra Pro Groin Protector</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-ultra-pro-groin-protector-22046798512292.jpg?v=1626114851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Ultra Pro Groin Protector</strong> will keep you comfortably protected against painful hits below the belt. Enjoy a comfortable, unrestricted fit while protecting yourself from unfortunate mishaps during your sparring sessions. </span></p>
+<p><strong>FEATURES AND BENEFITS:</strong></p>
+<ul>
+<li>Material: Expertly crafted using a PU leather shell and comfortable padding.</li>
+<li><span>Soft and breathable spandex net cloth provides additional comfort and support</span></li>
+<li><span>Lacking edge with engineering plastic and emulsion designed to shield and transfer shock away from areas where protection is most crucial.</span></li>
+<li><span>Furnished with an elastic waistband to supply the perfect fit for each individual’s size and preference. Fitting securely around your waist, it provide the protection you need without compromising on comfort.</span></li>
+<li>
+<span>Meticulous turn lines</span> will never make you uncomfortable.</li>
+<li>Whether you’re engaged in boxing, mixed martial arts, Muay Thai, kickboxing or another sparring session, you can keep yourself protected without limiting your mobility.</li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/ultra_pro.png?v=1612928626"></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>groin protector</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Red / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Red / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Red / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032640737444</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>33164886-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963782226084</id>
+    <published>2021-01-08T00:34:23-08:00</published>
+    <updated>2021-01-08T00:34:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/combat-muay-thai-shin-guards"/>
+    <title>Combat Muay Thai Shin Guards</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-combat-muay-thai-shin-guards-30156693733540.jpg?v=1628368785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The<strong> Combat Muay Thai Shin Guards</strong><span> </span>is designed specifically for your combat sports needs! It provides you with extra protection where you need it. <br></p>
+<p>This amazing pair of shin guards are made from synthetic leather materials for maximum comfort and durability. It absorbs impact and provides you with a lighter feeling when you're kicking. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-leather-shin-guards-21526095757476.jpg?v=1609916817" alt=""></p>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li>Protective synthetic leather shin guards for beginners to advanced fighters</li>
+<li>Durable and user-friendly shin guards</li>
+<li>Thick dense protective padding for better shock absorption</li>
+<li>Made from lightweight materials for comfortability and durability</li>
+<li>Package: 1 pair of Leather Shin Guard</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-leather-shin-guards-21526095823012.jpg?v=1609916817" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>shin guards</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Orange / XS</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-orange-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Orange / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-orange-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Orange / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-orange-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Orange / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-orange-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Red / XS</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-red-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Red / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Red / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Red / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Blue / XS</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-blue-xs</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963782226084</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>28164709-1-pair-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963768004772</id>
+    <published>2021-01-08T00:29:14-08:00</published>
+    <updated>2021-01-08T00:29:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/shock-resistant-mouth-guard"/>
+    <title>Shock Resistant Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-shock-resistant-mouth-guard-21558909075620.jpg?v=1626292700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>Shock Resistant Mouthguard</strong> is <strong>XMARTIAL's</strong> special offering to you! It provides you with a knock out results when it comes to providing top-notch teeth, lips, gums, and jaws protection. </p>
+<p>Dominate your competition with the <strong>Shock Resistant Mouthguard</strong>. Avoid chipped, cracked, or missing teeth with this amazing tool! Most importantly, you can avoid serious injuries. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1429833965.jpg?v=1609915557" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1429833965.jpg?v=1609915557"></p>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li>Protection for everybody; whether you're using it for BJJ, Muay Thai, Kickboxing, MMA, UFC, the Combat Sports Mouthguard will provide you with the ultimate protection.</li>
+<li><span class="a-list-item"><span class="a-size-base">Dual-core doubles its shock control</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Protective EVA frame sends shocks to your toughest tissues</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Adjusts to your jaw for the ultimate gel fit</span></span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1300666913.jpg?v=1609915563"></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Clear</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Orange</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Yellow</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Green</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-double-layer</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963728093348</id>
+    <published>2021-01-07T23:58:53-08:00</published>
+    <updated>2021-01-07T23:58:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/combat-sports-mouth-guard"/>
+    <title>Combat Sports Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-combat-sports-mouth-guard-30417965613220.jpg?v=1628351330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>Combat Sports Mouthguard with Container</strong> is <strong>XMARTIAL's</strong> special offering to you! It provides you with knock out results when it comes to providing top-notch teeth, lips, gums, and jaws protection. </p>
+<p>Dominate your competition with the <strong>Combat Sports Mouth Guard</strong>. Avoid chipped, cracked, or missing teeth with this amazing tool! Most importantly, you can avoid serious injuries. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739_34edeff7-e06e-4eb4-bf9a-3fcb2594178b.jpg?v=1609914908" alt=""></p>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li>Protection for everybody; whether you're using it for BJJ, Muay Thai, Kickboxing, MMA, UFC, the Combat Sports Mouthguard will provide you with the ultimate protection.</li>
+<li><span class="a-list-item"><span class="a-size-base">Dual-core doubles its shock control</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Protective EVA frame sends shocks to your toughest tissues</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Adjusts to your jaw for the ultimate gel fit</span></span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/mG.png?v=1610422394"></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963728093348</id>
+      <title>White</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31321818-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963728093348</id>
+      <title>Red</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31321818-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963673370788</id>
+    <published>2021-01-05T21:44:55-08:00</published>
+    <updated>2021-01-05T21:44:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/amateur-boxing-head-gear"/>
+    <title>Amateur Boxing Headgear</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-amateur-boxing-headgear-30448102670500.jpg?v=1628336743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Amateur Boxing Head Gear</strong> is the perfect gear for combat sports. This awesome helmet is made from durable and high-quality PU leather with a soft polyester lining for more comfortable wear. </p>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<p>The <strong>Amateur Boxing Head Gear</strong> will protect your head, nose, cheek, and full-face with its solid padding. It also protects your forehead, ears and reduces the shock from the blows. You'll get a snug fit and full peripheral vision for a better full-range of motion. </p>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li><span class="a-list-item">Full Coverage: Be fearless knowing your most vital areas are protected. Full coverage of the head, cheeks, ears, and chin.</span></li>
+<li>Adjustable head guard fits for child and adult’s head</li>
+<li><span>Lightweight, soft and comfortable, also water and sweat resistant</span></li>
+<li>
+<span data-spm-anchor-id="a2g0o.detail.1000023.i0.5f2421bckHvRie">Adjustab</span><span data-spm-anchor-id="a2g0o.detail.1000023.i1.5f2421bckHvRie">le size: fit for head circle 50 to 60cm and within 24cm between top forehead to jaw</span>
+</li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-amateur-boxing-head-gear-21525367455908.jpg?v=1609911602"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing headgear</s:tag>
+    <s:tag>kickboxing</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963673370788</id>
+      <title>Black</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18513360-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963673370788</id>
+      <title>Red</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18513360-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5908475576484</id>
+    <published>2020-12-06T19:32:36-08:00</published>
+    <updated>2020-12-06T19:32:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/bjj-finger-tape"/>
+    <title>BJJ Finger Tape</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-bjj-finger-tape-30255345041572.png?v=1628380674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>BJJ Finger Tape</strong> will help protect your hands from the wear and tear of training. After you train BJJ for a while, you realize that BJJ is not the gentle art it is said to be. Specifically in gi Jiu Jitsu, where injuring your hands is unavoidable and you’ll eventually deal with finger injuries. By taping your fingers, you’re giving extra support to your finger’s joints and tendons to keep training with less pain.<br>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-camo-athletic-tape-21019183546532.jpg?v=1607080088"></span></p>
+<strong></strong><strong>FEATURES AND BENEFITS:</strong>
+<ul>
+<li>
+<strong>Material</strong>: Non-woven Fabric, Cotton - <span data-mce-fragment="1">The fabric can easily be torn by hand, no shears or scissors required.</span>
+</li>
+<li>
+<strong>Length:</strong> 4.5M</li>
+<li><span>Speed up your recovery and enjoy freedom from pain -  recover faster due to increased blood circulation and reduced inflammation.</span></li>
+<li><span>Increase your athletic performance - It enables your muscles to more easily get back to neutral shape and is designed to work with your body and flex with your muscles to support, not restrict the area.</span></li>
+<li><span>Ideally for young and old, professionals and amateurs, pregnant women, gym lifters, literally <span class="a-text-bold" data-mce-fragment="1">ANYONE </span>with an active lifestyle!</span></li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/chart_73d98889-826b-4c9d-af50-1a703d351979.png?v=1607311222"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>bjj-tape</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Black / S</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Black / M</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Black / L</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>White / S</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-white-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>White / M</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>White / L</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>White / XL</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-white-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Red / S</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Red / M</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Red / L</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5908475576484</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>26030537-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4298832052283</id>
+    <published>2020-11-23T19:21:02-08:00</published>
+    <updated>2020-11-23T19:21:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/all-sports-mouth-guard"/>
+    <title>All Sports Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-all-sports-mouth-guard-30392796250276.jpg?v=1628376705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong></strong></em></span></span><span style="color: #000000;" data-mce-style="color: #000000;">Protect yourself with the <strong>All Sports Mouth Guard. </strong>This best-selling product features a gel frame that ensures a secure and perfect fit to your jaw. </span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;">The <strong>All Sports Mouth Guard</strong> features a modern design that provides you with unrestricted airflow while offering maximum protection. </span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;">Customers love this awesome product because it's very soft and flexible. It is one of the most durable options out there.</span></p>
+<div style="text-align: left;" data-mce-style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/UTB8VBvJj0nJXKJkSaiyq6AhwXXaa.jpg?v=1571881350" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/UTB8VBvJj0nJXKJkSaiyq6AhwXXaa.jpg?v=1571881350" data-mce-style="float: none;"></div>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Features &amp; Benefits:</strong></span></p>
+<ul>
+<li><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Size:</strong> 6.5*5.5cm</span></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1">Made from <strong>high-quality</strong> silicone materials</span></li>
+<li><strong><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1">Unrestricted airflow</span></strong></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1"><strong>Maximum comfort</strong> &amp; <strong>protection</strong></span></li>
+</ul>
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739.jpg?v=1605844020" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298832052283</id>
+      <title>White</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298832052283</id>
+      <title>Red</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4298548510779</id>
+    <published>2019-10-27T18:46:59-07:00</published>
+    <updated>2019-10-27T18:46:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/eva-mouth-guard"/>
+    <title>Eva Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-eva-mouth-guard-29943985340580.jpg?v=1628369154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #000000;"><span style="color: #ff2a00;"><em><strong></strong></em></span></span><span style="color: #000000;">Get maximum protection with our </span><span style="color: #000000;"><strong>Eva Mouth Guard! </strong>This <strong>best-selling</strong> product is more than just a piece of protective gear.</span></p>
+<p><span style="color: #000000;"><img src="https://ae01.alicdn.com/kf/HTB1ozWfhmCWBuNjy0Fhq6z6EVXav.jpg" alt="ZP5001404-D-13-1"></span></p>
+<p><span style="color: #000000;">It provides solid protection for your teeth and gums. The <strong>Eva Mouth Guard</strong> is very easy to use. Grapplers and athletes love this mouthguard because of its cool design, and the maximum protection it provides.</span></p>
+<p><span style="color: #000000;"><strong>Features &amp; Benefits:</strong></span></p>
+<ul>
+<li><span style="color: #000000;"><strong>Maximum protection </strong>for your teeth and gums</span></li>
+<li><span style="color: #000000;">Made from<strong> high-quality</strong> silicone materials</span></li>
+<li><span style="color: #000000;"><strong>Maximum airflow</strong></span></li>
+<li><span style="color: #000000;"><strong>Comfortable </strong>&amp;<strong> easy </strong>to use</span></li>
+<li>
+<strong>Size</strong>: 63x47x3mm or 65x50x19mm</li>
+</ul>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739.jpg?v=1605844020" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298548510779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

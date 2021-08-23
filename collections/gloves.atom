@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/gloves.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-07-25T23:41:49-07:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/6838872178852</id>
+    <published>2021-07-25T23:41:49-07:00</published>
+    <updated>2021-07-25T23:41:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/retro-style-boxing-gloves"/>
+    <title>Retro Style Boxing Gloves</title>
+    <s:type>Boxing Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-retro-style-boxing-gloves-30324183138468.png?v=1628381383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Boxing Gloves<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>These<strong> Retro Style Boxing Gloves</strong> are created with high-quality materials designed to keep you safe through tough training. Available in three unique colors and can be used for MMA. Drill like a beast in Muay Thai boxing gloves built with your comfort in mind.</span></p>
+<p data-mce-fragment="1"><strong>Features &amp; Benefits:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Made of high-quality PU leather.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">It is wear-resistant and durable for long term use</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Features a triple-density foam core that works as comfortable shock absorption, efficient energy absorption, and protection.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">It has a hook &amp; loop design of the gloves that can effectively protect the joints of your wrist.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Designed with ventilation holes in the toe keep their hands cool and dry.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Suitable for Thai boxing, taekwondo, sandbag, boxing, fighting, etc.</span></li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<img src="https://cdn.shopify.com/s/files/1/2036/0199/files/Size_Chart_1_6c8e4177-86fb-488c-81fb-ead5265e7c48.png?v=1626851986" style="float: none;" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/Size_Chart_1_6c8e4177-86fb-488c-81fb-ead5265e7c48.png?v=1626851986" data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/31e14e39-a2cc-41c3-b298-882849fa9709.png?v=1627281631" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/31e14e39-a2cc-41c3-b298-882849fa9709.png?v=1627281631">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Coffee / 6oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-coffee-color-6oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Coffee / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-coffee-color-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Coffee / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-coffee-color-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Coffee / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-coffee-color-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Brown / 6oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-brown-color-6oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Brown / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-brown-color-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Brown / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-brown-color-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Brown / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-brown-color-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Green / 6oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-green-color-6oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Green / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-green-color-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Green / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-green-color-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838872178852</id>
+      <title>Green / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>43210481-green-color-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4970293755963</id>
+    <published>2021-07-25T23:26:39-07:00</published>
+    <updated>2021-07-25T23:26:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/serpent-bjj-gloves"/>
+    <title>Serpent BJJ Gloves</title>
+    <s:type>MMA Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-serpent-bjj-gloves-29960601600164.jpg?v=1628352239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>MMA Gloves<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><span style="color: #ff2a00;"><em><strong></strong></em></span></span><span><strong>Serpent BJJ Gloves</strong> are super lightweight and durable which will make your punches fast and precise. It's easy to clean and maintain, giving you a comfortable fit and snug fit. These best MMA/BJJ training gloves can withstand the toughest and intense workouts for months without needing any replacement.</span></p>
+<p><strong> Features and Benefits:</strong> <br></p>
+<ul>
+<li><span>Material: High quality PU, latex foam liner</span></li>
+<li><span>Size: Universal, for 9-13 cm palm width</span></li>
+<li>Full palm with wear-resistant breathable mesh, intimate thumb protection design</li>
+<li><span>The padding material offers supreme defense against the nastiest of impacts</span></li>
+<li><span>It is strategically built and placed to extend resistance and flawlessly dispenses shock across the surface of the gloves evenly</span></li>
+<li><span>It further enhances grip and superior hold when you opt for grappling</span></li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/1_7c99d449-fce7-4824-8970-ff8adafec7d1.jpg?v=1591590949" alt=""><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/2_c4c5872e-da8f-4ba6-8d90-cb4062f2a652.jpg?v=1591590967" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>mma gloves</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4970293755963</id>
+      <title>White</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>23434640-sotf-st3b-palm-width-9-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4970293755963</id>
+      <title>Red</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>23434640-sotf-st3d-palm-width-9-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4970293755963</id>
+      <title>Black</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>23434640-sotf-st3a-palm-width-9-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4970293755963</id>
+      <title>Pink</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>23434640-sotf-st3e-palm-width-9-13cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5953604386980</id>
+    <published>2021-07-25T23:22:43-07:00</published>
+    <updated>2021-07-25T23:22:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/knockout-puncher-mma-gloves"/>
+    <title>Knockout Puncher MMA Gloves</title>
+    <s:type>MMA Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-knockout-puncher-mma-gloves-30459817001124.jpg?v=1628382640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>MMA Gloves<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><strong><em></em></strong></span><span><strong>Knockout Puncher MMA Gloves</strong> is a half finger boxing gloves which are ideal for taekwondo, kickboxing, grappling, boxing, speed bag, martial arts, sparring, Muay Thai, UFC training or any other lightweight daily training etc.</span> <br><span style="font-weight: 600;" data-mce-style="font-weight: 600;">Features &amp; Benefits:</span>
+<ul>
+<li data-spm-anchor-id="a2g0o.detail.1000023.i2.40f14cbdxARydF"><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF">Made of high-quality PU leather, they are durable for long-term use.</span></span></li>
+<li data-spm-anchor-id="a2g0o.detail.1000023.i2.40f14cbdxARydF"><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF">With perforations on the palms for increasing breath ability to make you feel cool, you will not sweat or feel hot during the training process.</span></span></li>
+<li data-spm-anchor-id="a2g0o.detail.1000023.i2.40f14cbdxARydF">They can give you optimal striking protection in the training and competition</li>
+</ul>
+<p><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/gloves_2eacf111-912e-4d4b-8bca-8656f964284d.png?v=1609310532"></span></span></p>
+<ul>
+<li data-spm-anchor-id="a2g0o.detail.1000023.i2.40f14cbdxARydF"><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF">High quality hand-sewed stitching for long-term use.</span></span></li>
+<li data-spm-anchor-id="a2g0o.detail.1000023.i2.40f14cbdxARydF"><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF">Widen nylon velcro design to ensure a comfortable fit. While providing solid wrist support, to protects your fist during intense training with this punching training gloves</span></span></li>
+</ul>
+<p><span><span data-spm-anchor-id="a2g0o.detail.1000023.i0.40f14cbdxARydF"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/gloves_1157365f-3fce-4630-88fd-3969f0ae6b0e.png?v=1609310632"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_3.png?v=1626855476" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_3.png?v=1626855476"></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>mma gloves</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5953604386980</id>
+      <title>White / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>35281714-white-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5953604386980</id>
+      <title>White / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>35281714-white-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5953604386980</id>
+      <title>Black / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>35281714-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5953604386980</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>35281714-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6838841671844</id>
+    <published>2021-07-20T04:21:38-07:00</published>
+    <updated>2021-07-20T04:21:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/pro-muay-thai-boxing-gloves"/>
+    <title>Pro Muay Thai Boxing Gloves</title>
+    <s:type>Boxing Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-pro-muay-thai-boxing-gloves-30150705119396.jpg?v=1628343775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Boxing Gloves<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;">Achieve maximum breathability and comfort with the<strong> Pro Muay Thai Boxing Gloves</strong></span><b>.</b><span style="font-weight: 400;"> These Muay Thai boxing gloves are created with unique materials designed to keep you safe through tough training. Available in three unique colors and can be used for MMA. Drill like a beast in Muay Thai boxing gloves built with your comfort in mind.</span></p>
+<p data-mce-fragment="1"><strong>Features &amp; Benefits:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" data-mce-fragment="1">Made of high-quality PU leather.</span></li>
+<li data-mce-fragment="1"><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" data-mce-fragment="1">It is wear-resistant and durable for long term use</span></li>
+<li data-mce-fragment="1"><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" data-mce-fragment="1">Features a triple-density foam core that works as comfortable shock absorption, efficient energy absorption, and protection.</span></li>
+<li data-mce-fragment="1"><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" data-mce-fragment="1">It has a hook &amp; loop design of the gloves that can effectively protect the joints of your wrist. </span></li>
+<li data-mce-fragment="1">Suitable for Thai boxing, taekwondo, sandbag, boxing, fighting, etc.<br>
+</li>
+</ul>
+<div data-mce-fragment="1"><strong></strong></div>
+<div data-mce-fragment="1"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/des.png?v=1626779566" alt=""></div>
+<h3 data-mce-fragment="1">SIZE <strong>CHART:</strong>
+</h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/gloves_775f43e0-f5a0-4589-b2a3-424201b33c36.png?v=1626779800"></strong></p>
+<div data-mce-fragment="1"><strong></strong></div>
+<div data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black / 10oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black / 12oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>White-Gold / 10oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-white-gold-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>White-Gold / 12oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-white-gold-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black-Gold / 10oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-gold-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black-Gold / 12oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-gold-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>White-Silver / 10oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-white-silver-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>White-Silver / 12oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-white-silver-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black-Silver / 10oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-silver-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6838841671844</id>
+      <title>Black-Silver / 12oz</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>46140239-black-silver-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6032498360484</id>
+    <published>2021-05-04T02:13:07-07:00</published>
+    <updated>2021-05-04T02:13:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/ground-and-pound-lace-boxing-gloves"/>
+    <title>Ground and Pound Lace Boxing Gloves</title>
+    <s:type>Lace Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-ground-and-pound-lace-boxing-gloves-30392049172644.png?v=1628382471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Lace Gloves<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-weight: 400;">The <strong>Ground and Pound Lace Boxing Gloves</strong> offer a perfect fit with classic colors and durable material. Designed for high intensity training, these Muay Thai boxing gloves protect your wrist and hand while offering a comfortable, breathable fit. Available in three unique colors and can be used for MMA . </span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-pro-punch-lace-up-boxing-gloves-22046332911780.jpg?v=1612925326" alt=""></span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-weight: 600;" data-mce-style="font-weight: 600;">Features &amp; Benefits:</span></p>
+<ul>
+<li><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title">Made from high-quality premium PU leather materials</span></li>
+<li>
+<span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title">Polyurethane</span> foam for optimal impact cushioning</li>
+<li><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title">Achieve maximum breathability and comfort thanks to its full mesh palm features</span></li>
+<li>
+<span class="a-list-item">Offset lace for secure and easy tightening: </span>Provides a secure fit with <span data-mce-fragment="1">lace up closure </span>that maintains protection and comfort for a variety of striking angles. <span data-mce-fragment="1">Additionally, the offset lace and underlying cover ensure your skin isn't pinched while you’re being laced-up or training.</span>
+</li>
+<li> <span data-mce-fragment="1">These boxing gloves are Ideal for kickboxing, sparring, heavy bag workouts, and mitt work</span><br>
+</li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/a.png?v=1612925934"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>lace gloves</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Black / 8 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-black-8-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Black / 10 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-black-10-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Black / 12 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-black-12-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Red / 8 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-red-8-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Red / 10 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-red-10-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Red / 12 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-red-12-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Blue / 8 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-blue-8-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Blue / 10 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-blue-10-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6032498360484</id>
+      <title>Blue / 12 OZ</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>11182559-blue-12-oz-</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5985412612260</id>
+    <published>2021-03-02T21:08:18-08:00</published>
+    <updated>2021-03-02T21:08:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/punch-after-punch-boxing-gloves"/>
+    <title>Punch After Punch Boxing Gloves</title>
+    <s:type>Boxing Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-punch-after-punch-boxing-gloves-21665829552292.jpg?v=1626341987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Boxing Gloves<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Punch After Punch Boxing Gloves</strong> features a manly design perfect for combat sports. These Gloves truly are the known for their excellence due to utmost comfort as well as the high-end protection. With easy place for fingers, you cannot feel the gathering at the fingertips.</span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="font-weight: 600;">Features &amp; Benefits:</span></p>
+<ul>
+<li><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo">Made from high-quality premium PU leather materials making it durable and resilient</span></li>
+<li><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo">Achieve maximum breathability and comfort thanks to its full mesh palm features</span></li>
+<li><span class="property-title" data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo">Provides a secure fit that maintains protection and comfort for a variety of striking angles</span></li>
+<li><span>Shock protecting foam to make these gloves reliable for greater safety.</span></li>
+<li><span>The secure wrap strap closing supports your wrist from twisting and provides good grip for an efficient training/ workout session.</span></li>
+<li><span>Ideal for sparring &amp; punch bag training. For further size guidance please look at the size chart in the pictures. Friendly on every type of skin.</span></li>
+</ul>
+<div style="text-align: start;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/asd_d740a5e0-85ed-4f38-8510-d906a1ea7915.jpg?v=1609308646"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Black / 8 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-black-8-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Black / 10 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-black-10-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Black / 12 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-black-12-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Gold / 8 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-gold-8-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Gold / 10 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-gold-10-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5985412612260</id>
+      <title>Gold / 12 OZ</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28713610-gold-12-oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5992662663332</id>
+    <published>2021-01-21T17:39:01-08:00</published>
+    <updated>2021-01-21T17:39:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/hunter-boxing-gloves"/>
+    <title>Hunter Muay Thai Boxing Gloves</title>
+    <s:type>Boxing Gloves</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-hunter-muay-thai-boxing-gloves-30392005165220.png?v=1628382468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Boxing Gloves<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span style="font-weight: 400;">Achieve maximum breathability and comfort with the<strong> Hunter Muay Thai Boxing Glove</strong>s</span><b>.</b><span style="font-weight: 400;"> These Muay Thai boxing gloves are created with unique materials designed to keep you safe through tough training. Available in three unique colors and can be used for MMA. Drill like a beast in Muay Thai boxing gloves built with your comfort in mind.</span></p>
+<p data-mce-fragment="1"><strong>Features &amp; Benefits:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Made of high quality PU leather.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">It is wear-resistant and durable for long term use</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Features a triple-density foam core which works as comfortable shock absorption, efficient energy absorption, and protection.</span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">It has a hook &amp; loop design of the gloves can effectively protect the joints of your wrist. </span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Designed with ventilation holes in toe keep their hands cool and dry. </span></li>
+<li data-mce-fragment="1"><span data-spm-anchor-id="a2g0o.detail.0.i10.48ee5efeACooyo" class="property-title" data-mce-fragment="1">Suitable for Thai boxing, taekwondo, sandbag, boxing, fighting, etc.</span></li>
+</ul>
+<div data-mce-fragment="1"><strong></strong></div>
+<div data-mce-fragment="1"><strong>SIZE CHART: </strong></div>
+<div data-mce-fragment="1"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/gloves_size_chart_480x480.jpg?v=1611056569" style="display: block; margin-left: auto; margin-right: auto;"></strong></div>
+<div data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing gloves</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Black / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-black-gold-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Black / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-black-gold-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Black / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-black-gold-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Black / 14oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-black-gold-14oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Red / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-red-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Red / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-red-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Red / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-red-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>Red / 14oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-red-14oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>White / 8oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-white-8oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>White / 10oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-white-10oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>White / 12oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-white-12oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5992662663332</id>
+      <title>White / 14oz</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku>38937251-white-14oz</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

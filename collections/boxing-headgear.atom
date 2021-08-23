@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/boxing-headgear.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-03-09T00:57:40-08:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/6551875846308</id>
+    <published>2021-03-09T00:57:40-08:00</published>
+    <updated>2021-03-09T00:57:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/savage-boxing-headgear"/>
+    <title>Savage Boxing Headgear</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-savage-boxing-headgear-30332646654116.jpg?v=1628390019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The<strong> Savage Boxing Headgear </strong>will protect your head, nose, cheek, and full-face with its solid padding. It also protects your forehead, ears and reduces the shock from the blows. You'll get a snug fit and full peripheral vision for a better full-range of motion. <br></p>
+<div style="text-align: left;"><br></div>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li><span class="a-list-item">Made of durable leather construction to ensure lasting dexterity and performance with top quality laminated foam system that disperses impact.It guards your head by delivering robust shock absorption.</span></li>
+<li><span class="a-list-item"> Full face coverage with Semi Back protection with this great sparring Head guard.Be fearless knowing your most vital areas are protected. </span></li>
+<li><span class="a-list-item">The Headguard Designed top with a high-density elastic,back with Hook and loop Sticky Velcro Closure.</span></li>
+<li><span class="a-list-item">It offers a protected and adjustable fit reducing chances of head protector of slipping off. It provides steady closure while stabilizing it solidly and allowing the optimum amount of head flexion with the support of attached elastic band.</span></li>
+<li><span class="a-list-item">Perfect fit. It does not come loose from sweat and impact</span></li>
+<li><span class="a-list-item">The secure Hook and Loop Closure system locks into place, so you can focus on your game, not your gear.</span></li>
+<li><strong><span class="a-list-item">Size Guide: </span></strong></li>
+<ul>
+<li><span class="a-list-item">S:Head circumference 48-52cm </span></li>
+<li><span class="a-list-item">M:Head circumference 53-57cm </span></li>
+<li><span class="a-list-item">L:Head circumference 58-65cm</span></li>
+</ul>
+<li>
+<span><strong>Preferable Age:</strong> &gt;6 Years</span><br>
+</li>
+</ul>
+<p> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.shopify.com/s/files/1/2036/0199/files/71f2zuLlmZL._AC_SL1500_480x480.jpg?v=1614757055" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/71f2zuLlmZL._AC_SL1500_480x480.jpg?v=1614757055"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing headgear</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Red / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Red / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Red / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6551875846308</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>36203074-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6035649790116</id>
+    <published>2021-02-22T02:40:37-08:00</published>
+    <updated>2021-02-22T02:40:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/fighter-kids-boxing-headgear"/>
+    <title>Fighter Kids Boxing Headgear</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fighter-kids-boxing-headgear-30416568254628.jpg?v=1628336758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Fighter Kids Boxing Headgear</strong> provides excellent coverage and protection of the face and head while training or sparring especially designed for kids who lacks self-protection in training or competition. A quality protective gear set can reduce the possibility of getting hurt and concrete kids' confidence for further learning. Whether you are </span>training boxing, kickboxing, mixed martial arts, karate or taekwondo, this head gear is perfect for you.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/Untitled_72680e42-1bcc-410b-9c39-0dc36fa76da5.png?v=1613013444" alt=""></p>
+<p><strong>FEATURES AND BENEFITS:</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Material: Made of high-quality PU, The inner liner is made with soft a Non-slip material. Synthetic leather is lightweight, soft and comfortable, also water and sweat resistant and holds the headgear in place.</span></li>
+<li><span class="a-list-item">Design: Monkey face shape design, can protect your head during boxing training, ensures you stay secure against nasty cuts and blows to your face and provides enough peripheral vision</span></li>
+<li><span class="a-list-item">Full Coverage: Full coverage of the head, cheeks, and chin. Solid padding makes nice protection for nose, cheek and full-face. About 1 inches padding for protecting your head and reduce shock</span></li>
+<li><span class="a-list-item"><span>Protection-Headgear for Muay Thai, Grappling, Sparring, Kickboxing, Karate, Martial Arts, Sanda, Fighting, Taekwondo and Karate</span></span></li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/chart_ed1671c4-e195-4b33-86db-d5c73f40ded1.jpg?v=1613013412"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing headgear</s:tag>
+    <s:tag>kids</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035649790116</id>
+      <title>Black</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>35524646-black-helmet-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6035649790116</id>
+      <title>White</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>35524646-white-helmet-6-oz-6-12-years-old</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963673370788</id>
+    <published>2021-01-05T21:44:55-08:00</published>
+    <updated>2021-01-05T21:44:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/amateur-boxing-head-gear"/>
+    <title>Amateur Boxing Headgear</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-amateur-boxing-headgear-30448102670500.jpg?v=1628336743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Amateur Boxing Head Gear</strong> is the perfect gear for combat sports. This awesome helmet is made from durable and high-quality PU leather with a soft polyester lining for more comfortable wear. </p>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<p>The <strong>Amateur Boxing Head Gear</strong> will protect your head, nose, cheek, and full-face with its solid padding. It also protects your forehead, ears and reduces the shock from the blows. You'll get a snug fit and full peripheral vision for a better full-range of motion. </p>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li><span class="a-list-item">Full Coverage: Be fearless knowing your most vital areas are protected. Full coverage of the head, cheeks, ears, and chin.</span></li>
+<li>Adjustable head guard fits for child and adult’s head</li>
+<li><span>Lightweight, soft and comfortable, also water and sweat resistant</span></li>
+<li>
+<span data-spm-anchor-id="a2g0o.detail.1000023.i0.5f2421bckHvRie">Adjustab</span><span data-spm-anchor-id="a2g0o.detail.1000023.i1.5f2421bckHvRie">le size: fit for head circle 50 to 60cm and within 24cm between top forehead to jaw</span>
+</li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-amateur-boxing-head-gear-21525367455908.jpg?v=1609911602"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boxing headgear</s:tag>
+    <s:tag>kickboxing</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963673370788</id>
+      <title>Black</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18513360-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963673370788</id>
+      <title>Red</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>18513360-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

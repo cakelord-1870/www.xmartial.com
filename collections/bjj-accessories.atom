@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/bjj-accessories.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-01-08T00:29:14-08:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/5963768004772</id>
+    <published>2021-01-08T00:29:14-08:00</published>
+    <updated>2021-01-08T00:29:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/shock-resistant-mouth-guard"/>
+    <title>Shock Resistant Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-shock-resistant-mouth-guard-21558909075620.jpg?v=1626292700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>Shock Resistant Mouthguard</strong> is <strong>XMARTIAL's</strong> special offering to you! It provides you with a knock out results when it comes to providing top-notch teeth, lips, gums, and jaws protection. </p>
+<p>Dominate your competition with the <strong>Shock Resistant Mouthguard</strong>. Avoid chipped, cracked, or missing teeth with this amazing tool! Most importantly, you can avoid serious injuries. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1429833965.jpg?v=1609915557" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1429833965.jpg?v=1609915557"></p>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li>Protection for everybody; whether you're using it for BJJ, Muay Thai, Kickboxing, MMA, UFC, the Combat Sports Mouthguard will provide you with the ultimate protection.</li>
+<li><span class="a-list-item"><span class="a-size-base">Dual-core doubles its shock control</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Protective EVA frame sends shocks to your toughest tissues</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Adjusts to your jaw for the ultimate gel fit</span></span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/products/product-image-1300666913.jpg?v=1609915563"></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Clear</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Orange</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-orange</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Blue</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Yellow</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-yellow</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Green</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963768004772</id>
+      <title>Red</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>26904296-double-layer</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5963728093348</id>
+    <published>2021-01-07T23:58:53-08:00</published>
+    <updated>2021-01-07T23:58:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/combat-sports-mouth-guard"/>
+    <title>Combat Sports Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-combat-sports-mouth-guard-30417965613220.jpg?v=1628351330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The <strong>Combat Sports Mouthguard with Container</strong> is <strong>XMARTIAL's</strong> special offering to you! It provides you with knock out results when it comes to providing top-notch teeth, lips, gums, and jaws protection. </p>
+<p>Dominate your competition with the <strong>Combat Sports Mouth Guard</strong>. Avoid chipped, cracked, or missing teeth with this amazing tool! Most importantly, you can avoid serious injuries. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739_34edeff7-e06e-4eb4-bf9a-3fcb2594178b.jpg?v=1609914908" alt=""></p>
+<p><strong>FEATURES &amp; BENEFITS</strong></p>
+<ul>
+<li>Protection for everybody; whether you're using it for BJJ, Muay Thai, Kickboxing, MMA, UFC, the Combat Sports Mouthguard will provide you with the ultimate protection.</li>
+<li><span class="a-list-item"><span class="a-size-base">Dual-core doubles its shock control</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Protective EVA frame sends shocks to your toughest tissues</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base">Adjusts to your jaw for the ultimate gel fit</span></span></li>
+</ul>
+<p><span class="a-list-item"><span class="a-size-base"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/mG.png?v=1610422394"></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963728093348</id>
+      <title>White</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31321818-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5963728093348</id>
+      <title>Red</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>31321818-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4298832052283</id>
+    <published>2020-11-23T19:21:02-08:00</published>
+    <updated>2020-11-23T19:21:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/all-sports-mouth-guard"/>
+    <title>All Sports Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-all-sports-mouth-guard-30392796250276.jpg?v=1628376705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong></strong></em></span></span><span style="color: #000000;" data-mce-style="color: #000000;">Protect yourself with the <strong>All Sports Mouth Guard. </strong>This best-selling product features a gel frame that ensures a secure and perfect fit to your jaw. </span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;">The <strong>All Sports Mouth Guard</strong> features a modern design that provides you with unrestricted airflow while offering maximum protection. </span></p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;">Customers love this awesome product because it's very soft and flexible. It is one of the most durable options out there.</span></p>
+<div style="text-align: left;" data-mce-style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/UTB8VBvJj0nJXKJkSaiyq6AhwXXaa.jpg?v=1571881350" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/UTB8VBvJj0nJXKJkSaiyq6AhwXXaa.jpg?v=1571881350" data-mce-style="float: none;"></div>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;" data-mce-style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;"><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Features &amp; Benefits:</strong></span></p>
+<ul>
+<li><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Size:</strong> 6.5*5.5cm</span></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1">Made from <strong>high-quality</strong> silicone materials</span></li>
+<li><strong><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1">Unrestricted airflow</span></strong></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1"><strong>Maximum comfort</strong> &amp; <strong>protection</strong></span></li>
+</ul>
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739.jpg?v=1605844020" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298832052283</id>
+      <title>White</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-white</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298832052283</id>
+      <title>Red</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-red</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4298548510779</id>
+    <published>2019-10-27T18:46:59-07:00</published>
+    <updated>2019-10-27T18:46:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/eva-mouth-guard"/>
+    <title>Eva Mouth Guard</title>
+    <s:type>Protectives</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-eva-mouth-guard-29943985340580.jpg?v=1628369154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Protectives<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span style="color: #000000;"><span style="color: #ff2a00;"><em><strong></strong></em></span></span><span style="color: #000000;">Get maximum protection with our </span><span style="color: #000000;"><strong>Eva Mouth Guard! </strong>This <strong>best-selling</strong> product is more than just a piece of protective gear.</span></p>
+<p><span style="color: #000000;"><img src="https://ae01.alicdn.com/kf/HTB1ozWfhmCWBuNjy0Fhq6z6EVXav.jpg" alt="ZP5001404-D-13-1"></span></p>
+<p><span style="color: #000000;">It provides solid protection for your teeth and gums. The <strong>Eva Mouth Guard</strong> is very easy to use. Grapplers and athletes love this mouthguard because of its cool design, and the maximum protection it provides.</span></p>
+<p><span style="color: #000000;"><strong>Features &amp; Benefits:</strong></span></p>
+<ul>
+<li><span style="color: #000000;"><strong>Maximum protection </strong>for your teeth and gums</span></li>
+<li><span style="color: #000000;">Made from<strong> high-quality</strong> silicone materials</span></li>
+<li><span style="color: #000000;"><strong>Maximum airflow</strong></span></li>
+<li><span style="color: #000000;"><strong>Comfortable </strong>&amp;<strong> easy </strong>to use</span></li>
+<li>
+<strong>Size</strong>: 63x47x3mm or 65x50x19mm</li>
+</ul>
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-bjj-mouth-guard-protector-13279367495739.jpg?v=1605844020" alt="" style="float: none;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>bjj accessories</s:tag>
+    <s:tag>boxing mouth guard</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>protectives</s:tag>
+    <s:tag>sparring gear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4298548510779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>41762860-clear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

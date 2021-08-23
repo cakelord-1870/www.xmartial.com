@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/streetwear.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-07-25T23:35:07-07:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/6841901514916</id>
+    <published>2021-07-25T23:35:07-07:00</published>
+    <updated>2021-07-25T23:35:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/5-star-muay-thai-t-shirt"/>
+    <title>5 Star Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-5-star-muay-thai-t-shirt-30178147860644.png?v=1628378506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><span data-mce-fragment="1"><strong>5 Star Muay Thai T-Shirt</strong> features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>S</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>M</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>L</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>2XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>3XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>4XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840284577956</id>
+    <published>2021-07-25T22:57:15-07:00</published>
+    <updated>2021-07-25T22:57:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/werewolf-muay-thai-t-shirt"/>
+    <title>Werewolf Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-werewolf-muay-thai-t-shirt-30164620148900.png?v=1628340344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-cel-widget="aplus-3p-module-b" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" class="celwidget aplus-module 3p-module-b aplus-standard" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Werewolf Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287" alt=""></strong></p>
+</div>
+</div>
+<div data-cel-widget="aplus-3p-module-b" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" class="celwidget aplus-module 3p-module-b aplus-standard" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6839965319332</id>
+    <published>2021-07-25T21:41:43-07:00</published>
+    <updated>2021-07-25T21:41:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/legacy-muay-thai-t-shirt"/>
+    <title>Legacy Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-legacy-muay-thai-t-shirt-30194114822308.png?v=1628174263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Legacy Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>3XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>4XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6839915085988</id>
+    <published>2021-07-25T21:41:04-07:00</published>
+    <updated>2021-07-25T21:41:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/royal-muay-thai-t-shirt"/>
+    <title>Royal Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-royal-muay-thai-t-shirt-30160187752612.jpg?v=1628344317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Royal Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>3XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>4XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841922257060</id>
+    <published>2021-07-25T21:40:11-07:00</published>
+    <updated>2021-07-25T21:40:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/fighter-muay-thai-t-shirt"/>
+    <title>Fighter Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fighter-muay-thai-t-shirt-30178062827684.png?v=1628367720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Fighter Muay Thai T-Shirt</strong> is the perfect tee for muay thai lovers, sports fanatics, martial art enthusiasts. Be proud and let the world know about your muay thai skills . Awesome to wear to the gym, sports club, school. </span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841999229092</id>
+    <published>2021-07-22T18:56:08-07:00</published>
+    <updated>2021-07-22T18:56:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/xmartial-fighter-tank-top"/>
+    <title>Xmartial Fighter Tank Top</title>
+    <s:type>Men - Tank Top</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-xmartial-fighter-tank-top-30399814140068.png?v=1628366985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Tank Top<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span style="color: #000000;"><strong>Size chart available in the product image</strong></span></p>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span style="color: #000000;"><strong>Xmartial Fighter Tank Top</strong> is a perfect outfit when doing weight lifting at the gym. Made of soft, breathable, and environmental friendly materials. You can move freely and do different kinds of workout while wearing this tank top. </span></p>
+<ul>
+<li>Strong, durable, soft and breathable</li>
+<li>Simple but stylish, this tank top will let you move freely</li>
+<li>Ideally for weightlifting exercise<br>
+</li>
+<li>made of environmental friendly materials</li>
+</ul>
+<h3> <strong>SIZE CHART:<br><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/image_2021_07_23T01_25_23_056Z_1.png?v=1627005308" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/image_2021_07_23T01_25_23_056Z_1.png?v=1627005308" data-mce-fragment="1"><br></strong>
+</h3>
+<div style="text-align: left;">
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/products/size.png?v=1573821292"><meta charset="utf-8"> </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>tank top</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>8 Limbs / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-skull-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>8 Limbs / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-skull-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>8 Limbs / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-skull-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>8 Limbs / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-skull-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee - Strike / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-animal-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee - Strike / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-animal-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee - Strike / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-animal-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee - Strike / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-animal-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Fighter / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-beast-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Fighter / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-beast-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Fighter / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-beast-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Fighter / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-beast-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Wai Kru / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Wai Kru / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Wai Kru / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Wai Kru / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Kick / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Kick / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Kick / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Kick / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee- Center / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee- Center / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee- Center / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841999229092</id>
+      <title>Knee- Center / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>25538872-star-gary-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841946243236</id>
+    <published>2021-07-21T23:59:37-07:00</published>
+    <updated>2021-07-21T23:59:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/xmartial-fighter-hoodie-and-pants"/>
+    <title>Xmartial Fighter Hoodie and Pants</title>
+    <s:type>Men - Hoodie</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-xmartial-fighter-hoodie-and-pants-30178460434596.png?v=1628367523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Hoodie<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size chart available in the product image</strong><br></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>* You can pick the different sizes of Hoodie or Pants </strong><strong>by leaving a note on the cart page.</strong><br></p>
+<p> The <strong>Xmartial Fighter Hoodie and Pants</strong> set accents <span data-mce-fragment="1">a very adorable print and design of animated cats in a Muay Thai sparring scene</span>. It highlights the exclusive features of <strong>XMartial hoodies and pants</strong>. Combine your passion for Muay Thai and trendy style for modern leisure appearance <span data-mce-fragment="1">with this new martial arts lifestyle gear.</span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project.jpg?v=1576068984"></p>
+<p>The <strong data-mce-fragment="1">Meow Thai Hoodie</strong><strong data-mce-fragment="1"> Hoodie</strong> features an athletic fit with a long line curved hem and a kangaroo pouch pocket that makes it functional for everyday use as well as a comfortable and stylish training option. The <strong data-mce-fragment="1">Meow Thai Hoodie</strong><strong data-mce-fragment="1"> </strong><strong>Pants</strong> offers a slick street look with style and comfort. Available as a set.</p>
+<ul>
+<li>Fully sublimated graphics for maximum comfort and durability</li>
+<li>Made with high-quality broadcloth polyester material</li>
+<li>Maintains body temperature on hot and cool days</li>
+<li>Compression technology improves your blood circulation to the muscles and speeds up your recovery time</li>
+</ul>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Men</strong></em><br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;"><a href="https://www.xmartial.com/products/muay-thai-fighter-t-shirt"><span style="color: #2b00ff;" color="#2b00ff">Muay Thai Fighter</span><span color="#2b00ff" style="color: #2b00ff;"> T-Shirt</span></a><a href="https://www.xmartial.com/products/meow-thai-punching-bag-t-shirt" data-mce-style="color: #2b00ff;"><br></a><span style="color: #000000;" data-mce-fragment="1">➤<a style="color: #2b00ff;" href="https://www.xmartial.com/products/meow-thai-punching-bag-t-shirt" data-mce-style="color: #2b00ff;"> </a></span><a href="https://www.xmartial.com/products/art-of-8-limbs-t-shirt"><span style="color: #2b00ff;" color="#2b00ff" data-mce-fragment="1">Art of 8 Limbs</span><span color="#2b00ff" style="color: #2b00ff;"> T-Shirt</span></a><a href="https://www.xmartial.com/products/meow-thai-punching-bag-t-shirt" data-mce-style="color: #2b00ff;"></a></span></strong></em><br><em><strong><br><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;"></span></strong></em></p>
+<h2 data-mce-fragment="1">
+<strong data-mce-fragment="1">SIZE CHART:</strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He0d303a962c1457c8dc420ba7ca22c16N_ee1f9e9d-4f9b-448a-95e9-102fd9c83256.jpg?v=1576069481">
+</h2>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He03525e94caf435a83452fe5318304f26_3b1328e0-6c05-490d-aa54-8a7941fe0116.jpg?v=1576069535"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee - Strike / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Fighter / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>8 Limbs / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Wai Kru / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Kick / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / 2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841946243236</id>
+      <title>Knee Center / 3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841898631332</id>
+    <published>2021-07-21T22:22:03-07:00</published>
+    <updated>2021-07-21T22:22:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/kickboxing-muay-thai-t-shirt"/>
+    <title>Kickboxing Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-kickboxing-muay-thai-t-shirt-30177758642340.png?v=1628367166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Kickboxing Muay Thai T-Shirt</strong> is the perfect tee for taekwondo lovers, sports fanatics, martial art enthusiasts. Be proud and let the world know about your muay thai skills . Awesome to wear to the gym, sports club, school. </span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841879068836</id>
+    <published>2021-07-21T21:58:53-07:00</published>
+    <updated>2021-07-21T21:58:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/art-of-8-limbs-muay-thai-t-shirt"/>
+    <title>Art of 8 Limbs Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-art-of-8-limbs-muay-thai-t-shirt-30177535066276.png?v=1628367887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Art of 8 Limbs Muay Thai T-Shirt</strong> features a very appealing print and design. A thick cotton t-shirt makes for a go-to wardrobe staple! Not only is it cool to wear but it will show off your tough personality.</span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6029947568292</id>
+    <published>2021-06-28T07:27:32-07:00</published>
+    <updated>2021-06-28T07:27:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/custom-t-shirt"/>
+    <title>Custom T-Shirt</title>
+    <s:type>custom</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-custom-t-shirt-22047163351204.png?v=1626059739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>custom<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong><span style="color: #000000;" data-mce-style="color: #000000;">FOR CUSTOM T-SHIRT BULK ORDER:</span> <a href="https://www.xmartial.com/pages/custom-gear-bulk-order" target="_blank"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;">Contact us to get discounted quote!</span></a></strong></em></span></p>
+<p><strong>* YOU CAN CHOOSE ANY COLOR AND ADD LOGO TO FRONT, BACK OR SLEEVE SIDE **</strong></p>
+<p>Note: Please be aware of production and processing time takes 5-6 weeks for custom print</p>
+<p><span style="color: #ff2a00;"><strong>After placing an order, reply to our email confirmation with your custom design logo in the high-quality transparent background file (PDF/SVG/Vector). Also, include a basic sketch for the positioning of your design.</strong></span></p>
+<p><span style="color: #ff2a00;"><strong>STRICTLY NO CANCELLATION/REFUND/RETURN ONCE DESIGN ARE CONFIRMED.</strong></span></p>
+<p><span><strong>Custom T-Shirt</strong> is a perfect way to provide you a great material while unlocking your creativity and showing off your personalized outfit.  Create your own favorite message and design. We want you to feel and look amazing in your personalized design while enjoying the comfort of our products' quality.</span></p>
+<div></div>
+<h3><b>WHY XMARTIAL CUSTOM T-SHIRT?</b></h3>
+<ul>
+<li><span><strong>MATERIAL:</strong> 100% Cotton, Non-chafe fabric taping reinforces neck and shoulders</span></li>
+<li>
+<b>BREATHABLE AND COMFY</b> This lightweight t-shirt is sweat-absorbent and breathable, so you can feel comfortable and sweat-free in the summer.</li>
+<li>
+<strong>VERSATILE:</strong> <span data-mce-fragment="1">Whether you’re hiking, fishing, popping to the gym, or heading for a night out, our men’s casual t-shirts will keep up! The natural material and the classic shape make them incredibly versatile! They’re great active fit undershirts OR minimal, plain t-shirts that match your favorite jeans or formal dress pants.</span>
+</li>
+<li><span><strong>COLOR VARIATIONS: </strong>You can choose any color of your choice. </span></li>
+</ul>
+<h3><strong></strong></h3>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>Related Category</strong></em><br><em><strong>➤ <a href="https://www.xmartial.com/products/custom-rash-guard"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Rash Guard</span></a></strong></em><br><em> <strong>➤ <a href="https://www.xmartial.com/products/custom-bjj-mma-shorts"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom BJJ/MMA Shorts</span></a></strong></em><br><em></em> <em><strong data-mce-fragment="1">➤<span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/custom-compression-pants"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Compression Pants</span></a></strong></em><br> <em><strong data-mce-fragment="1">➤<span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/custom-hoodies"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Hoodies</span></a></strong></em><br> <em><strong>➤ <a href="https://www.xmartial.com/products/custom-jogger-pants"><span style="color: #2b00ff;">Custom Jogger Pants</span></a></strong></em><br><em><strong data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/custom-boxing-mma-gloves"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Boxing/MMA Gloves</span></a></strong><br data-mce-fragment="1"><strong data-mce-fragment="1"></strong></em><em><strong></strong></em></p>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/Rash_Guard_-_TShirts_Custom.png?v=1612844526" alt=""></strong></p>
+<div style="text-align: start;" data-mce-style="text-align: start;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom-gear</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029947568292</id>
+      <title>S</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029947568292</id>
+      <title>M</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>19102418-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029947568292</id>
+      <title>L</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>19102418-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029947568292</id>
+      <title>XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>19102418-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029947568292</id>
+      <title>2XL</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6708732821668</id>
+    <published>2021-05-18T03:44:49-07:00</published>
+    <updated>2021-05-18T03:44:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/kimeowra-bjj-hoodie"/>
+    <title>Kimeowra BJJ Hoodie</title>
+    <s:type>Men - Hoodie</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-kimeowra-bjj-hoodie-30295990796452.jpg?v=1628379951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Hoodie<br>
+        <strong>Price: </strong>
+            47.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>Size chart available in the product image</strong></p>
+<p><span>The <strong>Kimeowra BJJ Hoodie</strong> features a very adorable print and design. Not only is it cool to wear but it will keep you warm. Show off your charms with this hoodie.</span></p>
+<ul>
+<li>Fully sublimated graphics for maximum comfort and durability</li>
+<li>Made with high-quality broadcloth polyester material</li>
+<li>Maintains body temperature on hot and cool days</li>
+<li>Compression technology improves your blood circulation to the muscles and speeds up your recovery time</li>
+</ul>
+<p><em style="font-size: 1.6em;"><strong>For Men</strong></em><br><em><strong><span data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/kimeowra-bjj-rash-guard"><span style="color: #2b00ff;" color="#2b00ff" data-mce-style="color: #2b00ff;">Kimeowra BJJ Rash Guard</span></a><br data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/kimeowra-shortsleeve-bjj-rash-guard"><span style="color: #2b00ff;" color="#2b00ff" data-mce-style="color: #2b00ff;">Kimeowra Shortsleeve BJJ Rash Guard</span></a><br data-mce-fragment="1">➤</span> <a href="https://www.xmartial.com/products/kimeowra-bjj-fightwear-bundle" style="color: #2b00ff;" target="_blank" data-mce-style="color: #2b00ff;">Kimeowra BJJ Fightwear Bundle</a></strong></em><em><strong><br></strong></em></p>
+<p><em style="font-size: 1.6em;"><strong>For Women</strong></em> <br><em><strong><span data-mce-fragment="1">➤</span> <a href="https://www.xmartial.com/products/kimeowra-womens-bjj-rash-guard" style="color: #2b00ff;" target="_blank" data-mce-style="color: #2b00ff;">Kimeowra Women's BJJ Rash Guard</a></strong></em><em><strong><br></strong></em></p>
+<p><em style="font-size: 1.6em;"><strong>For Kids</strong></em><br><em><strong><span data-mce-fragment="1">➤</span> <span style="color: #2b00ff;"><a href="https://www.xmartial.com/products/kimeowra-kids-bjj-rash-guard-ss" style="color: #2b00ff;"><span color="#2b00ff">Kimeowra Kids BJJ Rash Gua</span><span color="#2b00ff">rd </span>(Shortsleeve)</a></span><br><span data-mce-fragment="1">➤</span><span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/kimeowra-kids-bjj-rash-guard"><span style="color: #2b00ff;" color="#2b00ff">Kimeowra Kids BJJ Rash Guard<span style="color: #0c10f9;"> </span></span><span style="color: #0c10f9;">(Longsleeve)</span></a><br></strong></em></p>
+<h3><strong>SIZE CHART:</strong></h3>
+<p> </p>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-men-hoodie-armbar-me-bjj-hoodie-28788199260324_a62623a6-164b-458e-a84a-0e4d274ac2ae.jpg?v=1621332843"></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6708732821668</id>
+      <title>S</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>8829465_10779</s:sku>
+      <s:grams>496</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6708732821668</id>
+      <title>M</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>8829465_10780</s:sku>
+      <s:grams>533</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6708732821668</id>
+      <title>L</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>8829465_10781</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6708732821668</id>
+      <title>XL</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>8829465_10782</s:sku>
+      <s:grams>610</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6708732821668</id>
+      <title>2XL</title>
+      <s:price currency="USD">47.95</s:price>
+      <s:sku>8829465_10783</s:sku>
+      <s:grams>683</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6632470806692</id>
+    <published>2021-04-08T23:10:30-07:00</published>
+    <updated>2021-04-08T23:10:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/meow-muay-thai-t-shirt"/>
+    <title>Meow Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-meow-muay-thai-t-shirt-30376476541092.jpg?v=1628399382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The <strong>Meow Muay Thai T-Shirt</strong></span><strong data-mce-fragment="1"> </strong><span data-mce-fragment="1">features a very appealing print and design in an animated cat Muay Thai kickboxing scene. Not only is it cool to wear but it will keep you comfy. Unleash your tough yet charming personality with this go-to wardrobe staple!</span><br> <br>
+<p class="p1" data-mce-fragment="1"><b data-mce-fragment="1">FEATURES:</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% ring-spun cotton</li>
+<li data-mce-fragment="1">Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li data-mce-fragment="1">Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li data-mce-fragment="1">Pre-shrunk</li>
+<li data-mce-fragment="1">Shoulder-to-shoulder taping</li>
+<li data-mce-fragment="1">Double-stitched sleeves and bottom hem</li>
+<li data-mce-fragment="1">Blank product sourced from Haiti, Honduras, Mexico, or Bangladesh</li>
+</ul>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Men</strong></em><br><em><strong><span data-mce-fragment="1">➤ </span><span style="color: #2b00ff;"><a style="color: #2b00ff;" href="https://www.xmartial.com/products/meow-thai-hoodie-and-pants"><span color="#2b00ff">Meow Thai Punching Bag Hoodie And Pants</span></a></span></strong></em></p>
+<h2 data-mce-fragment="1"><strong data-mce-fragment="1">SIZE CHART:</strong></h2>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-starlocks-t-shirt-28482809921700.png?v=1617783085" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-starlocks-t-shirt-28482809921700.png?v=1617783085"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1985</s:sku>
+      <s:grams>224</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6640137896100</id>
+    <published>2021-04-08T22:07:48-07:00</published>
+    <updated>2021-04-08T22:07:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/meow-thai-hoodie-and-pants"/>
+    <title>Meow Thai Hoodie and Pants</title>
+    <s:type>Men - Hoodie</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-meow-thai-hoodie-and-pants-29946855391396.png?v=1628354037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Hoodie<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size chart available in the product image</strong><br></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>* You can pick the different sizes of Hoodie or Pants </strong><strong>by leaving a note on the cart page.</strong><br></p>
+<p> The <strong>Meow Thai Hoodie and Pants</strong> set accents <span data-mce-fragment="1">a very adorable print and design of animated cats in a Muay Thai sparring scene</span>. It highlights the exclusive features of <strong>XMartial hoodies and pants</strong>. Combine your passion for Muay Thai and trendy style for modern leisure appearance <span data-mce-fragment="1">with this new martial arts lifestyle gear.</span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project.jpg?v=1576068984"></p>
+<p>The <strong data-mce-fragment="1">Meow Thai Hoodie</strong><strong data-mce-fragment="1"> Hoodie</strong> features an athletic fit with a long line curved hem and a kangaroo pouch pocket that makes it functional for everyday use as well as a comfortable and stylish training option. The <strong data-mce-fragment="1">Meow Thai Hoodie</strong><strong data-mce-fragment="1"> </strong><strong>Pants</strong> offers a slick street look with style and comfort. Available as a set.</p>
+<ul>
+<li>Fully sublimated graphics for maximum comfort and durability</li>
+<li>Made with high-quality broadcloth polyester material</li>
+<li>Maintains body temperature on hot and cool days</li>
+<li>Compression technology improves your blood circulation to the muscles and speeds up your recovery time</li>
+</ul>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Men</strong></em><br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><span style="color: #2b00ff;"><a style="color: #2b00ff;" href="https://www.xmartial.com/products/meow-thai-punching-bag-t-shirt"><span color="#2b00ff">Meow Thai Punching Bag</span> T-Shirt</a></span></strong></em><br><em><strong><span data-mce-fragment="1">➤ </span><span style="color: #2b00ff;"><a href="https://www.xmartial.com/products/meow-thai-hoodie-and-pants" style="color: #2b00ff;"><span color="#2b00ff">Meow Thai Punching Bag Hoodie And Pants</span></a></span></strong></em></p>
+<h2 data-mce-fragment="1"><strong data-mce-fragment="1">SIZE CHART:</strong></h2>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He0d303a962c1457c8dc420ba7ca22c16N_ee1f9e9d-4f9b-448a-95e9-102fd9c83256.jpg?v=1576069481"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He03525e94caf435a83452fe5318304f26_3b1328e0-6c05-490d-aa54-8a7941fe0116.jpg?v=1576069535"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6640137896100</id>
+      <title>3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6029932757156</id>
+    <published>2021-02-09T02:02:26-08:00</published>
+    <updated>2021-02-09T02:02:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/custom-jogger-pants"/>
+    <title>Custom Jogger Pants</title>
+    <s:type>custom</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-custom-jogger-pants-27928596316324.jpg?v=1626145744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>custom<br>
+        <strong>Price: </strong>
+            59.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong><span style="color: #000000;" data-mce-style="color: #000000;">FOR CUSTOM JOGGER PANTS BULK ORDER:</span> <a href="https://www.xmartial.com/pages/custom-gear-bulk-order" target="_blank"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;">Contact us to get discounted quote!</span></a></strong></em></span></p>
+<p> <strong>** <span data-mce-fragment="1">ADD YOUR OWN LOGO, DESIGN OT TEXT</span> TO PANTS **</strong></p>
+<p>Note: Please be aware of production and processing time takes 5-6 weeks for custom print</p>
+<p><span style="color: #ff2a00;"><strong>After placing an order, reply to our email confirmation with your custom design logo in the high-quality transparent background file (PDF/SVG/Vector). Also, include a basic sketch for the positioning of your design.</strong></span></p>
+<p><span style="color: #ff2a00;"><strong>STRICTLY NO CANCELLATION/REFUND/RETURN ONCE DESIGN ARE CONFIRMED.</strong></span></p>
+<p><span data-mce-fragment="1">Be the height of comfort and style in <strong>Custom Jogger Pants</strong>. These trendy pants feature drawstring ties, tapered legs, and bottom cuffs. It improves your overall functionality, whether it’s weightlifting, running, or cycling. a workout or everyday casual wear.</span> <span data-mce-fragment="1"> Add</span><span data-mce-fragment="1"> your own personal touch by adding logo, designs, and message on your workout pants, and make your passion known!</span></p>
+<div></div>
+<h3><b>WHY XMARTIAL CUSTOM JOGGER PANTS?</b></h3>
+<ul>
+<li><span><strong>COMFORTABLE MATERIAL:</strong> 65% Cotton, more breathable and softer; 35% Elastic fiber, jogger with highly stretchable material offers great flexibility and comfort of movement during a workout.</span></li>
+<li><span><strong>PERFECT DESIGN:</strong> Stylish design of tapered leg and drawstring closure make you look slim and fit. The elastic cuff is not too tight and gives the Sweatpants great mobility during exercising</span></li>
+<li><span><strong>ZIPPER POCKET:</strong> Two large deep side zipper pockets design, convenience, and safety to keep your phone and other valuable items in them when doing exercise</span></li>
+<li><span><strong>VERSATILE: </strong>Suitable for yoga, gym, leisure, home, outdoor, sports like running, workout, fitness, training, jogging, basketball, fishing, baseball, hiking, bodybuilding, dancing, etc.</span></li>
+</ul>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>Related Category</strong></em><br><em><strong>➤ <a href="https://www.xmartial.com/products/custom-rash-guard"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Rash Guard</span></a></strong></em><br><em> <strong>➤ <a href="https://www.xmartial.com/products/custom-bjj-mma-shorts"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom BJJ/MMA Shorts</span></a></strong></em><br><em></em> <em><strong data-mce-fragment="1">➤<span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/custom-compression-pants"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Compression Pants</span></a></strong></em><br> <em><strong data-mce-fragment="1">➤<span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/custom-hoodies"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Hoodies</span></a></strong></em><br><em><strong data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/custom-t-shirt"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom T-Shirt</span></a><br data-mce-fragment="1"></strong><strong data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/custom-boxing-mma-gloves"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Boxing/MMA Gloves</span></a></strong><br data-mce-fragment="1"><strong data-mce-fragment="1"></strong></em><em><strong></strong></em></p>
+<h3><strong></strong></h3>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/image_2021_02_09T05_30_08_865Z.png?v=1612862097"></strong></p>
+<div style="text-align: start;" data-mce-style="text-align: start;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom-gear</s:tag>
+    <s:tag>joggers</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029932757156</id>
+      <title>S</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029932757156</id>
+      <title>M</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>19102418-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029932757156</id>
+      <title>L</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>19102418-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029932757156</id>
+      <title>XL</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>19102418-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029932757156</id>
+      <title>2XL</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6029979254948</id>
+    <published>2021-02-08T20:35:21-08:00</published>
+    <updated>2021-02-08T20:35:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/custom-hoodies"/>
+    <title>Custom Hoodies</title>
+    <s:type>custom</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-custom-hoodies-30327075799204.png?v=1628383002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>custom<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><em><strong><span style="color: #000000;" data-mce-style="color: #000000;">FOR CUSTOM HOODIES BULK ORDER:</span> <a href="https://www.xmartial.com/pages/custom-gear-bulk-order" target="_blank"><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;">Contact us to get discounted quote!</span></a></strong></em></span></p>
+<p><strong>* YOU CAN CHOOSE ANY COLOR AND ADD LOGO TO FRONT, BACK OR SLEEVE SIDE **</strong></p>
+<p><span>Note: Please be aware of production and processing time takes 5-6 weeks for custom print</span></p>
+<p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><strong>After placing an order, reply to our email confirmation with your custom design logo in a high-quality transparent background file (PDF/SVG/Vector). </strong></span><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><strong>Also, include a basic sketch for the positioning of your design.</strong></span></p>
+<p><span style="color: #ff2a00;" data-mce-style="color: #ff2a00;"><strong>STRICTLY NO CANCELLATION/REFUND/RETURN ONCE DESIGN ARE CONFIRMED.</strong></span></p>
+<p>Personalize your training experience with the <strong>Custom Hoodies</strong>. <span data-mce-fragment="1">This hoodie is must-have wear during the cold season and after workouts. </span>Add your personal touch to these durable, comfortable hoodies. and show off your skills while being warm and comfortable</p>
+<div></div>
+<h3><b>WHY XMARTIAL CUSTOM HOODIES?</b></h3>
+<ul>
+<li>
+<span><strong>MATERIAL: </strong>60% Polyester, 40% Cotton, skin-friendly, breathable, super soft, and lightweight perfect for workout, running, jogging, skateboarding, basketball, gym, hunting, camping, fishing in autumn and winter</span>.</li>
+<li>
+<strong>DESIGN:  </strong>Elastic cuffs and hem for a snug fit, Hoodie Sweatshirt with Adjustable Drawstrings.</li>
+<li>
+<strong>DURABLE KANGAROO POCKET:</strong>  there's a big muff on the front of long sleeves of pullover shirts, which not only keeps your hands warm but also can hold many things.</li>
+<li><span><strong>BREATHABLE AND COMFY:</strong> This lightweight t-shirt is sweat-absorbent and breathable, so you can feel comfortable and sweat-free in the summer.</span></li>
+<li>
+<span><strong>PERFECT FOR  ANY OCCASIONS:</strong> F</span>or casual wear like daily, office, school, travel, picnics, outdoor, party, jogging, running, etc. Lightweight hoodies provide excellent comfort and can be worn on any occasion and season.</li>
+</ul>
+<h3><strong></strong></h3>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>Related Category</strong></em><br><em><strong>➤ <a href="https://www.xmartial.com/products/custom-rash-guard"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Rash Guard</span></a></strong></em><br><em> <strong>➤ <a href="https://www.xmartial.com/products/custom-bjj-mma-shorts"><span style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom BJJ/MMA Shorts</span></a></strong></em><br><em></em> <em><strong data-mce-fragment="1">➤<span data-mce-fragment="1"> </span><a href="https://www.xmartial.com/products/custom-compression-pants"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Compression Pants</span></a></strong></em><br><em><strong>➤ <a href="https://www.xmartial.com/products/custom-jogger-pants"><span style="color: #2b00ff;">Custom Jogger Pants</span></a></strong></em><br> <em><strong data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/custom-t-shirt"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom T-Shirt</span></a><br data-mce-fragment="1"></strong><strong data-mce-fragment="1">➤ <a href="https://www.xmartial.com/products/custom-boxing-mma-gloves"><span data-mce-fragment="1" style="color: #2b00ff;" data-mce-style="color: #2b00ff;">Custom Boxing/MMA Gloves</span></a></strong><br data-mce-fragment="1"><strong data-mce-fragment="1"></strong></em><em><strong></strong></em></p>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/Rash_Guard_-_Hoodie_Custom.png?v=1612844442" alt=""></strong></p>
+<div style="text-align: start;" data-mce-style="text-align: start;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>custom-gear</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029979254948</id>
+      <title>S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029979254948</id>
+      <title>M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>19102418-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029979254948</id>
+      <title>L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>19102418-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029979254948</id>
+      <title>XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>19102418-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6029979254948</id>
+      <title>2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>19102418-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5933134807204</id>
+    <published>2020-12-18T01:09:48-08:00</published>
+    <updated>2020-12-18T01:09:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/vitality-joggers"/>
+    <title>Vitality Joggers</title>
+    <s:type>Men - Joggers</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-vitality-joggers-30452728430756.png?v=1628351680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Joggers<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size chart available in the product image</strong></p>
+<p><span style="color: #000000;" data-mce-style="color: #000000;"><strong>Vitality Joggers</strong> is designed to improve your overall functionality, whether <span data-mce-fragment="1">it’s weightlifting, running, or cycling. Prepare yourself for strenuous, next-level training sessions while wearing our pants that's well-equipped for high-intensity workouts and are form-fitting for maximum comfort.</span></span></p>
+<ul>
+<li>
+<span style="color: #000000;" data-mce-style="color: #000000;">Made of cotton-polyester; B</span>reathable, soft and stretchy fabric bring great comfort to the joggers for men</li>
+<li><span>Adjustable internal drawstring closure which provide you comfortable feeling and prevent it loosing.</span></li>
+<li><span>Two side pockets are deep enough for storage (phone, keys, or small items) prevent your belongings from falling out when you are doing exercise.</span></li>
+<li><span data-mce-fragment="1">Stylish design of tapered leg zippers and drawstring closure make you look slim and fit. and gives the Sweatpants great mobility during exercising; Metal-tipped elastic waistband and ankle zippers provides comfort with easy adjustment.</span></li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1365325273.jpg?v=1608281890" style="font-size: 1.4em;" data-mce-fragment="1" data-mce-style="font-size: 1.4em;" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1365325273.jpg?v=1608281890"><br></p>
+<ul></ul>
+<h3><strong><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1">SIZE CHART:</span></strong></h3>
+<p><strong><span style="color: #000000;" data-mce-style="color: #000000;" mce-data-marked="1"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1365325261.png?v=1608282141" alt=""></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>joggers</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-m-kc1-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-l-kc1-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xl-kc1-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Gray / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xxl-kc1-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Navy blue / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-m-kc1-navy-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Navy blue / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-l-kc1-navy-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Navy blue / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xl-kc1-navy-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Navy blue / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xxl-kc1-navy-blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Black / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-m-kc1-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-l-kc1-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xl-kc1-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5933134807204</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>32908111-xxl-kc1-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5932976275620</id>
+    <published>2020-12-17T23:34:07-08:00</published>
+    <updated>2020-12-17T23:34:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/autumn-fighter-joggers"/>
+    <title>Autumn Fighter Joggers</title>
+    <s:type>Men - Joggers</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-autumn-fighter-joggers-29953910538404.jpg?v=1628348445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Joggers<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span style="color: #000000;"><strong></strong></span><span><strong>Size chart available in the product image</strong></span></p>
+<p><span style="color: #000000;"><strong>Autumn Fighter Joggers</strong> is designed to improve your overall functionality, whether <span data-mce-fragment="1">it’s weightlifting, running, or cycling. Prepare yourself for strenuous, next-level training sessions while wearing our pants that's well-equipped for high-intensity workouts and are form-fitting for maximum comfort.</span></span></p>
+<ul>
+<li>
+<span style="color: #000000;">Made of cotton-polyester; B</span>reathable, soft and stretchy fabric bring great comfort to the joggers for men</li>
+<li><span class="a-list-item">The elastic waistband with ribbed ankle makes the men's fitness pants adjust easily to fit your body better.</span></li>
+<li><span>Adjustable internal drawstring closure which provide you comfortable feeling and prevent it loosing.</span></li>
+<li>
+<span>Towel Loop design on the back waist, this will make it easier for you to bring your towel when you are exercising.</span><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-autumn-fighter-bjj-pants-21281175044260.jpg?v=1608276337" alt="">
+</li>
+<li><span>2 zipper pockets on the right and 1 pocket on the left are deep enough for storage (phone, keys, or small items) prevent your belongings from falling out when you are doing exercise.</span></li>
+</ul>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-autumn-fighter-bjj-pants-21281175306404.jpg?v=1608276521"></p>
+<h3><strong><span style="color: #000000;" mce-data-marked="1">SIZE CHART:</span></strong></h3>
+<p><strong><span style="color: #000000;" mce-data-marked="1"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1431945939.jpg?v=1608275153" alt=""></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>joggers</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Black / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-m-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-l-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xl-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xxl-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-m-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-l-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xl-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Gray / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xxl-gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Army Green / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-m-army-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Army Green / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-l-army-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Army Green / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xl-army-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Army Green / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xxl-army-green</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Khaki / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-m-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Khaki / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-l-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Khaki / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xl-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5932976275620</id>
+      <title>Khaki / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27904010-xxl-khaki</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5931093688484</id>
+    <published>2020-12-17T20:42:35-08:00</published>
+    <updated>2020-12-17T20:42:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/goal-setter-joggers"/>
+    <title>Goal Setter Joggers</title>
+    <s:type>Men - Joggers</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-goal-setter-joggers-30426200211620.jpg?v=1628259940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Joggers<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span style="color: #000000;"><strong></strong></span><span><strong>Size chart available in the product image</strong></span></p>
+<p><span style="color: #000000;"><strong>Goal Setter Joggers</strong> is designed to improve your overall functionality, whether <span data-mce-fragment="1">it’s weightlifting, running, or cycling. Prepare yourself for strenuous, next-level training sessions while wearing our pants that's well-equipped for high-intensity workouts and are form-fitting for maximum comfort.</span></span></p>
+<ul>
+<li>
+<span style="color: #000000;">Made of cotton-polyester; B</span>reathable, soft and stretchy fabric bring great comfort to the joggers for men</li>
+<li><span class="a-list-item">The elastic waistband makes the men's fitness pants adjust easily to fit your body better</span></li>
+<li><span>Adjustable internal drawstring closure which provide you comfortable feeling and prevent it loosing.</span></li>
+<li><span>2 side and 1 rear zipper pockets are deep enough for storage (phone, keys, or small items) prevent your belongings from falling out when you are doing exercise.</span></li>
+</ul>
+<h3><strong><span style="color: #000000;" mce-data-marked="1">SIZE CHART:</span></strong></h3>
+<p><strong><span style="color: #000000;" mce-data-marked="1"><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/no-gi-bjj-gear-sweatpants-men-zipper-pockets-solid-color-pantalon-hombre-casual-trousers-men-clothes-2020-joggers-pants-man-fashion-street-wear-21263944745124.jpg?v=1608266200" alt=""></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>joggers</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>minimalist</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Grey / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-m-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Grey / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-l-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Grey / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-xl-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Grey / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-xxl-dark-grey</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-m-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-l-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-xl-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5931093688484</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>17764799-xxl-black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5761180663972</id>
+    <published>2020-10-06T22:51:26-07:00</published>
+    <updated>2020-10-06T22:51:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/camo-training-hoodie-pants"/>
+    <title>Camo Training Hoodie and Pants</title>
+    <s:type>Men - Hoodie</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-camo-training-hoodie-and-pants-30436054237348.jpg?v=1628349017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Hoodie<br>
+        <strong>Price: </strong>
+            49.95 - 85.00
+            <a href="https://www.xmartial.com/products/camo-training-hoodie-pants">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span><span style="color: #ff0000;"><em><strong></strong></em></span></span><span style="color: #000000;"><strong>Size chart available in the product image</strong></span></p>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<meta charset="utf-8">
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span style="color: #000000;"><strong>Camo Training Hoodie &amp; Pants</strong> features an athletic fit with a long line curved hem and a kangaroo pouch pocket that makes it functional for everyday use as well as a comfortable and stylish training option. </span></p>
+<ul>
+<li>Maintains body temperature on hot and cool days</li>
+<li>Compression technology improves your blood circulation to the muscles and speeds up your recovery time</li>
+<li><span>Made with high-quality material</span></li>
+</ul>
+<h3> <strong>SIZE CHART:</strong>
+</h3>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/H07e1e484bf73409f8ec49149ca27cb2bJ.jpg?v=1602047059"></p>
+<div style="text-align: left;">
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/products/size.png?v=1573821292"><meta charset="utf-8"> </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gym</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Set / M</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Set / L</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Set / XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Set / 2XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Blue Set / M</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Blue Set / L</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Blue Set / XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Blue Set / 2XL</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>30638540-sets-2-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Gray Pants / M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-1-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Gray Pants / L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-1-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Gray Pants / XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-1-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Gray Pants / 2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-1-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Pants / M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-2-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Pants / L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-2-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Pants / XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-2-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761180663972</id>
+      <title>Beige Pants / 2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>30638540-pants-2-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/5761189085348</id>
+    <published>2020-10-06T19:34:55-07:00</published>
+    <updated>2020-10-06T19:34:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/camouflage-training-pants"/>
+    <title>Camouflage Joggers</title>
+    <s:type>Men - Joggers</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-camouflage-joggers-30307319349412.png?v=1628386065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Joggers<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><em><strong></strong></em></span></span><span><strong>Size chart available in the product image</strong></span></p>
+<p><span style="color: #000000;" data-mce-style="color: #000000;"><span><strong>Camouflage Joggers</strong> offer a classic fit through the seat and thigh and are cut straight to ankle. It has distinctive designs with attention to detail, including roomy pockets.</span></span></p>
+<ul>
+<li><span>Offered in durable Cotton Blend Polyester material, these pants are built to last while maintaining breathability and comfort</span></li>
+<li><span>Made of fade and wrinkle-resistant fabric for enhanced durability</span></li>
+<li><span>The flattering design features a classic rise that sits comfortably at the waist with slightly tapered legs</span></li>
+<li><span style="color: #000000;" data-mce-style="color: #000000;">Designed for maximum comfort and unimpeded range of motion<br></span></li>
+</ul>
+<h3><strong><span style="color: #000000;" data-mce-style="color: #000000;">SIZE CHART:</span></strong></h3>
+<p><strong><span style="color: #000000;" data-mce-style="color: #000000;"><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/sc.jpg?v=1602036771"></span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>joggers</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Black / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-black-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Black / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-black-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-black-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-black-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-black-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Red / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-red-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Red / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Red / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Red / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-red-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Red / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-red-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Blue / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-blue-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Blue / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-blue-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Blue / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-blue-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Blue / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-blue-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/5761189085348</id>
+      <title>Blue / 2XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>28472682-blue-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/4893488283707</id>
+    <published>2020-05-12T01:32:07-07:00</published>
+    <updated>2020-05-12T01:32:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/goku-hoodie-and-pants"/>
+    <title>Goku Hoodie and Pants</title>
+    <s:type>Men - Hoodie</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-goku-hoodie-and-pants-16037264326715.png?v=1625919854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - Hoodie<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Size chart available in the product image</strong><br></p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>* You can pick different size of Hoodie or Pants </strong><strong>by leaving a note at the cart page.</strong></p>
+<meta charset="utf-8">
+<p>The <strong>Goku Hoodie and Pants</strong> collection features a unique range of new apparel to freshen up your look with new Jiu-Jitsu lifestyle gear. It highlights the exclusive designs of <strong>XMartial BJJ hoodies and pants</strong>. It combines <span>Jiu-Jitsu</span> and fashion with a clean block design suitable for modern leisure appearance.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project.jpg?v=1576068984"></p>
+<p>The <strong>Goku Hoodie</strong> features an athletic fit with a long line curved hem and a kangaroo pouch pocket that makes it functional for everyday use as well as a comfortable and stylish training option. The <strong>Goku Pants</strong> offer a slick street look with style and comfort. Both feature logos across the chest and thigh. Available as a set.</p>
+<ul>
+<li>Fully sublimated graphics for maximum comfort and durability</li>
+<li>Made with high-quality broadcloth polyester material</li>
+<li>Maintains body temperature on hot and cool days</li>
+<li>Compression technology improves your blood circulation to the muscles and speeds up your recovery time</li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Men</strong></em><br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤  <a style="color: #2b00ff;" href="https://www.xmartial.com/products/goku-rash-guard" data-mce-fragment="1" data-mce-href="https://www.xmartial.com/products/goku-rash-guard" data-mce-style="color: #2b00ff;">Goku Rash Guard (Longsleeve)</a></span></strong></em><br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤  <a style="color: #2b00ff;" href="https://www.xmartial.com/products/goku-rash-guard-ss" data-mce-fragment="1" data-mce-href="https://www.xmartial.com/products/goku-rash-guard-ss" data-mce-style="color: #2b00ff;">Goku Rash Guard (Shortsleeve)</a></span></strong></em><br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><span data-mce-fragment="1"> </span><a style="color: #2b00ff;" href="https://www.xmartial.com/products/goku-fightwear-bundle" data-mce-style="color: #2b00ff;" data-mce-href="https://www.xmartial.com/products/goku-fightwear-bundle" target="_blank" data-mce-fragment="1">Goku Fightwear Bundle<br data-mce-fragment="1"></a></strong></em><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><a href="https://www.xmartial.com/products/goku-black-fightwear-bundle" data-mce-href="https://www.xmartial.com/products/goku-black-fightwear-bundle" data-mce-fragment="1"><span data-mce-fragment="1"> Goku Black Fightwear Bundle</span></a></strong></em><br data-mce-fragment="1"><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1"></span></strong></em><strong data-mce-fragment="1"> </strong></p>
+<p><strong data-mce-fragment="1"><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Women</strong></em><br></strong><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span> <a style="color: #2b00ff;" href="https://www.xmartial.com/products/goku-womens-rash-guard" data-mce-fragment="1" target="_blank" data-mce-href="https://www.xmartial.com/products/goku-womens-rash-guard" data-mce-style="color: #2b00ff;">Goku Women's Rash Guard (Longsleeve)</a></strong></em> <br><em data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><span> </span><a href="https://www.xmartial.com/products/goku-womens-rash-guard-ss" style="color: #2b00ff;" data-mce-fragment="1" data-mce-style="color: #2b00ff;" data-mce-href="https://www.xmartial.com/products/goku-womens-rash-guard-ss" target="_blank">Goku Women's Rash Guard (Shortsleeve)</a></strong></em><em data-mce-fragment="1"><strong data-mce-fragment="1"><br></strong></em></p>
+<p><strong data-mce-fragment="1"><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Kids</strong></em></strong><br><strong data-mce-fragment="1"><em data-mce-fragment="1"><span data-mce-fragment="1">➤ </span> <a style="color: #2b00ff;" href="https://www.xmartial.com/products/goku-kids-rash-guard" data-mce-fragment="1" target="_blank" data-mce-href="https://www.xmartial.com/products/goku-kids-rash-guard" data-mce-style="color: #2b00ff;">Goku Kids Rash Guard (Longsleeve)</a></em><br> <em data-mce-fragment="1"><span data-mce-fragment="1">➤ </span><span> </span><a href="https://www.xmartial.com/products/goku-kids-rash-guard-ss" style="color: #2b00ff;" data-mce-fragment="1" data-mce-style="color: #2b00ff;" data-mce-href="https://www.xmartial.com/products/goku-kids-rash-guard-ss" target="_blank">Goku Kids Rash Guard (Shortsleeve)</a></em><br data-mce-fragment="1"><em data-mce-fragment="1"><span data-mce-fragment="1"></span></em><strong></strong></strong></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He0d303a962c1457c8dc420ba7ca22c16N_ee1f9e9d-4f9b-448a-95e9-102fd9c83256.jpg?v=1576069481"></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/He03525e94caf435a83452fe5318304f26_3b1328e0-6c05-490d-aa54-8a7941fe0116.jpg?v=1576069535"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>anime</s:tag>
+    <s:tag>hoodie</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>S</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>M</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>L</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>2XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4893488283707</id>
+      <title>3XL</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

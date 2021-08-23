@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/women-sports-bra.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2020-02-17T03:55:26-08:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/4548286709819</id>
+    <published>2020-02-17T03:55:26-08:00</published>
+    <updated>2020-02-17T03:55:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/training-pro-women-set"/>
+    <title>Training Pro Women’s Set</title>
+    <s:type>Women - Bundles</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-training-pro-women-s-set-14487387013179.png?v=1626004567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Women - Bundles<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><strong>* If you want different size for each item, leave a note at the cart page</strong></em><br></p>
+<p><span><strong>Size chart available in the product image</strong></span></p>
+<p><span style="font-weight: 400;">The <strong>Training Pro Women’s Set</strong> features a cute sports bra and matching shorts sure to make any workout fun. Train your hardest in a sports bra and shorts duo designed to be comfortable and practical.</span></p>
+<ul></ul>
+<h3><em><strong><strong><span style="color: #000000;"></span></strong></strong></em></h3>
+<h3><strong><span style="color: #000000;">SIZE CHART:</span></strong></h3>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/New_Project_9.jpg?v=1581926727"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>best deals</s:tag>
+    <s:tag>bjj</s:tag>
+    <s:tag>bundles</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Clearance-set</s:tag>
+    <s:tag>minimalist</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>muay thai set</s:tag>
+    <s:tag>other sports</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>sports bra</s:tag>
+    <s:tag>watersports</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4548286709819</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>29433983-black-set-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/4548286709819</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>29433983-black-set-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

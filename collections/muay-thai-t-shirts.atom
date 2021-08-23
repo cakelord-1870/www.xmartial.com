@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.xmartial.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.xmartial.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.xmartial.com/collections/muay-thai-t-shirts.atom"/>
+  <title>XMARTIAL</title>
+  <updated>2021-07-25T23:35:07-07:00</updated>
+  <author>
+    <name>XMARTIAL</name>
+  </author>
+  <entry>
+    <id>https://www.xmartial.com/products/6841901514916</id>
+    <published>2021-07-25T23:35:07-07:00</published>
+    <updated>2021-07-25T23:35:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/5-star-muay-thai-t-shirt"/>
+    <title>5 Star Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-5-star-muay-thai-t-shirt-30178147860644.png?v=1628378506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><span data-mce-fragment="1"><strong>5 Star Muay Thai T-Shirt</strong> features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>S</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>M</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>L</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>2XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>3XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841901514916</id>
+      <title>4XL</title>
+      <s:price currency="USD">44.95</s:price>
+      <s:sku>46466148-beige-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6840284577956</id>
+    <published>2021-07-25T22:57:15-07:00</published>
+    <updated>2021-07-25T22:57:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/werewolf-muay-thai-t-shirt"/>
+    <title>Werewolf Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-werewolf-muay-thai-t-shirt-30164620148900.png?v=1628340344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-cel-widget="aplus-3p-module-b" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" class="celwidget aplus-module 3p-module-b aplus-standard" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Werewolf Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287" alt=""></strong></p>
+</div>
+</div>
+<div data-cel-widget="aplus-3p-module-b" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" class="celwidget aplus-module 3p-module-b aplus-standard" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6840284577956</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>33273608-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6839965319332</id>
+    <published>2021-07-25T21:41:43-07:00</published>
+    <updated>2021-07-25T21:41:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/legacy-muay-thai-t-shirt"/>
+    <title>Legacy Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-legacy-muay-thai-t-shirt-30194114822308.png?v=1628174263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Legacy Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>3XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839965319332</id>
+      <title>4XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>41482719-as-photo-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6839915085988</id>
+    <published>2021-07-25T21:41:04-07:00</published>
+    <updated>2021-07-25T21:41:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/royal-muay-thai-t-shirt"/>
+    <title>Royal Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-royal-muay-thai-t-shirt-30160187752612.jpg?v=1628344317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="l93pz-bkl4dd-1mtf39-9t57h9" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width">
+<p class="a-spacing-base"><strong>Royal Muay Thai T-Shirt</strong> <span data-mce-fragment="1">features a fitted cut that offers maximum comfort. This t-shirt features a large Muay Thai graphic printed on the front and back.</span></p>
+<p class="a-spacing-base"><strong>FEATURES:</strong></p>
+<ul>
+<li><span>Made with 84% Polyester and 16% Spandex. It is lightweight, breathable, and dry fit, which keeps your body feel great all day.</span></li>
+<li><span class="a-list-item">Featherweight and ultra-breathable for all high sweat, high-intensity training</span></li>
+<li><span class="a-list-item">Quick-dry moisture management fabric is specially constructed to allow a full range of motion while keeping you dry and comfortable.</span></li>
+<li><span>Athletic shirts for men is perfect for workout, running, basketball, soccer, fitness, yoga, volleyball, swimming, bodybuilding, tennis, and daily casual wear. </span></li>
+</ul>
+<h3><strong>SIZE CHART:</strong></h3>
+<p><strong><img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/product-image-1805167663.jpg?v=1626835287"></strong></p>
+</div>
+</div>
+<div class="celwidget aplus-module 3p-module-b aplus-standard" data-csa-c-id="84b98p-rq8pj7-ffxsvh-s5gvhf" data-cel-widget="aplus-3p-module-b" cel_widget_id="aplus-3p-module-b">
+<div class="aplus-module-wrapper aplus-3p-fixed-width"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>S</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>M</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>L</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>2XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>3XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-xxxl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6839915085988</id>
+      <title>4XL</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>46466148-beige-4xl</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841922257060</id>
+    <published>2021-07-25T21:40:11-07:00</published>
+    <updated>2021-07-25T21:40:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/fighter-muay-thai-t-shirt"/>
+    <title>Fighter Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fighter-muay-thai-t-shirt-30178062827684.png?v=1628367720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Fighter Muay Thai T-Shirt</strong> is the perfect tee for muay thai lovers, sports fanatics, martial art enthusiasts. Be proud and let the world know about your muay thai skills . Awesome to wear to the gym, sports club, school. </span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Fighter - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841922257060</id>
+      <title>Wai Kru - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841898631332</id>
+    <published>2021-07-21T22:22:03-07:00</published>
+    <updated>2021-07-21T22:22:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/kickboxing-muay-thai-t-shirt"/>
+    <title>Kickboxing Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-kickboxing-muay-thai-t-shirt-30177758642340.png?v=1628367166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Kickboxing Muay Thai T-Shirt</strong> is the perfect tee for taekwondo lovers, sports fanatics, martial art enthusiasts. Be proud and let the world know about your muay thai skills . Awesome to wear to the gym, sports club, school. </span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Splash / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Splash / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Kick Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841898631332</id>
+      <title>Knee Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6841879068836</id>
+    <published>2021-07-21T21:58:53-07:00</published>
+    <updated>2021-07-21T21:58:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/art-of-8-limbs-muay-thai-t-shirt"/>
+    <title>Art of 8 Limbs Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-art-of-8-limbs-muay-thai-t-shirt-30177535066276.png?v=1628367887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"><strong>Art of 8 Limbs Muay Thai T-Shirt</strong> features a very appealing print and design. A thick cotton t-shirt makes for a go-to wardrobe staple! Not only is it cool to wear but it will show off your tough personality.</span></p>
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1"></span><b data-mce-fragment="1">FEATURES:</b></p>
+<ul>
+<li>100% ring-spun cotton</li>
+<li>Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li>Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li>Pre-shrunk</li>
+<li>Shoulder-to-shoulder taping</li>
+<li>Double-stitched sleeves and bottom hem </li>
+</ul>
+<h3><b>SIZE CHART:</b></h3>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/men_tshirt.jpg?v=1619097089"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>new arrival</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>Knee Strikes - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - White / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / 2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6841879068836</id>
+      <title>The Wai Kru - Black / 3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>4094635_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.xmartial.com/products/6632470806692</id>
+    <published>2021-04-08T23:10:30-07:00</published>
+    <updated>2021-04-08T23:10:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.xmartial.com/products/meow-muay-thai-t-shirt"/>
+    <title>Meow Muay Thai T-Shirt</title>
+    <s:type>Men - T-Shirt</s:type>
+    <s:vendor>XMARTIAL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-meow-muay-thai-t-shirt-30376476541092.jpg?v=1628399382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMARTIAL<br>
+        <strong>Type: </strong>Men - T-Shirt<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The <strong>Meow Muay Thai T-Shirt</strong></span><strong data-mce-fragment="1"> </strong><span data-mce-fragment="1">features a very appealing print and design in an animated cat Muay Thai kickboxing scene. Not only is it cool to wear but it will keep you comfy. Unleash your tough yet charming personality with this go-to wardrobe staple!</span><br> <br>
+<p class="p1" data-mce-fragment="1"><b data-mce-fragment="1">FEATURES:</b></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% ring-spun cotton</li>
+<li data-mce-fragment="1">Heather Grey is 90% cotton and 10% polyester (all other heather colors are 35% cotton and 65% polyester)</li>
+<li data-mce-fragment="1">Fabric weight: 4.3 oz/yd² (145.79 g/m²)</li>
+<li data-mce-fragment="1">Pre-shrunk</li>
+<li data-mce-fragment="1">Shoulder-to-shoulder taping</li>
+<li data-mce-fragment="1">Double-stitched sleeves and bottom hem</li>
+<li data-mce-fragment="1">Blank product sourced from Haiti, Honduras, Mexico, or Bangladesh</li>
+</ul>
+<p><em style="font-size: 1.6em;" data-mce-style="font-size: 1.6em;"><strong>For Men</strong></em><br><em><strong><span data-mce-fragment="1">➤ </span><span style="color: #2b00ff;"><a style="color: #2b00ff;" href="https://www.xmartial.com/products/meow-thai-hoodie-and-pants"><span color="#2b00ff">Meow Thai Punching Bag Hoodie And Pants</span></a></span></strong></em></p>
+<h2 data-mce-fragment="1"><strong data-mce-fragment="1">SIZE CHART:</strong></h2>
+<img alt="" src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-starlocks-t-shirt-28482809921700.png?v=1617783085" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-starlocks-t-shirt-28482809921700.png?v=1617783085"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>muay thai</s:tag>
+    <s:tag>streetwear</s:tag>
+    <s:tag>stuff</s:tag>
+    <s:tag>t-shirt</s:tag>
+    <s:tag>wear</s:tag>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>S</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1980</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>M</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1981</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>L</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1982</s:sku>
+      <s:grams>164</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1983</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>2XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1984</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.xmartial.com/products/6632470806692</id>
+      <title>3XL</title>
+      <s:price currency="USD">39.95</s:price>
+      <s:sku>2843332_1985</s:sku>
+      <s:grams>224</s:grams>
+    </s:variant>
+  </entry>
+</feed>
